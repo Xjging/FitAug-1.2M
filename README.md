@@ -64,4 +64,4 @@ FitAug-1.2M is intended for:
 - error-type-aware fitness guidance modeling,
 - research on trustworthy and diagnostically precise AI fitness coaching.
 
-In our paper, fine-tuning on FitAug-1.2M consistently improves performance across all PCI stages and substantially boosts end-to-end movement assessment results on FitGuid. :contentReference[oaicite:9]{index=9}# FitAug-1.2M
+In our paper, fine-tuning on FitAug-1.2M consistently improves performance across all PCI stages and substantially boosts end-to-end movement assessment results on FitGuid. :contentReference[oaicite:9]{index=9}
