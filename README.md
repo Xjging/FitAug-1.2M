@@ -11,7 +11,7 @@ To address this, we introduce a 5-dimensional subjective evaluation framework fo
 - Technique Judgment (TJ)
 - Movement Analysis (MAn)
 - Prescriptive Suggestion (PS)
-<img src="assets/images/PCL.png" alt="Dataset Overview" width="700">
+![Dataset Overview](assets/images/overview.png)
 Using this framework, we build the FitGuid benchmark and evaluate a broad set of VLMs. Our analysis shows a clear and recurring bottleneck: many models can produce plausible explanations or suggestions, but remain much weaker at correctness-sensitive technique judgment. In practice, this means a model may sound helpful before it can reliably judge whether a movement is actually correct.
 
 FitAug-1.2M is built to address this gap.
