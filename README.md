@@ -1,9 +1,10 @@
 # FitAug-1.2M
 
 FitAug-1.2M is a large-scale image-text augmentation dataset for vision-language-model (VLM) based fitness guidance.
+![main Overview](assets/image/dataset.png)
 
 This dataset is part of our broader effort to build a more reliable evaluation and improvement pipeline for AI fitness coaching. In our paper, we show that existing VLM-based fitness guidance systems are often evaluated too narrowly: they may generate fluent feedback, but their actual coaching competence is not measured in a sufficiently fine-grained and diagnostic way.
-![main Overview](assets/images/main.png)
+![main Overview](assets/image/main.png)
 
 To address this, we introduce a 5-dimensional subjective evaluation framework for fitness guidance, covering not only movement assessment, but also motivational encouragement, program design, macronutrient allocation, and equipment recognition. For movement assessment, we further propose Progressive Competence Isolation (PCI), a stage-wise protocol that breaks the task into four sequential stages:
 
@@ -11,7 +12,7 @@ To address this, we introduce a 5-dimensional subjective evaluation framework fo
 - Technique Judgment (TJ)
 - Movement Analysis (MAn)
 - Prescriptive Suggestion (PS)
-![PCL Overview](assets/images/PCL.png)
+![PCL Overview](assets/image/PCL.png)
 Using this framework, we build the FitGuid benchmark and evaluate a broad set of VLMs. Our analysis shows a clear and recurring bottleneck: many models can produce plausible explanations or suggestions, but remain much weaker at correctness-sensitive technique judgment. In practice, this means a model may sound helpful before it can reliably judge whether a movement is actually correct.
 
 FitAug-1.2M is built to address this gap.
