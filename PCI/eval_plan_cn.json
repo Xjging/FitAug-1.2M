@@ -1,0 +1,3209 @@
+{
+  "schema_version": "2.0",
+  "dataset_id": "plan-cn",
+  "dataset_version": "2025-09-08",
+  "aim": "eval",
+  "prompt": "你是一个拥有丰富健身经验的健身教练，擅长用中文解答用户在健身训练中遇到任何问题。",
+  "items": [
+    {
+      "id": "em_subj_01",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 18 岁，现在准备进行颈前杠铃推举训练，最大单次重量是 55 公斤，目标是肩部肌肥大，请为我制定今天推举的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_02",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 70 岁，我的平板杠铃卧推最大重量是 45 公斤，想要进行胸肌肥大训练，请为我制定今天的训练计划，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_03",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 69 岁，我的杠铃深蹲 1RM 是 70 公斤，我想进行提升下肢力量水平的训练，请为我规划今日深蹲的训练内容，需包含重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_04",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 67 岁，我的杠铃深蹲最大单次蹲起重量是 70 公斤，想通过今天的训练促进下肢肌肉增长，请帮我制定一份深蹲的训练内容，需包含重量选择、每组的次数、总组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_05",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 29 岁，我的俯身杠铃划船最大单次重量为 85 公斤，今天的训练目标是提升背部肌肉维度，请为我设计今天划船的训练方案，写明重量选择、单组次数、组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_06",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 25 岁，我的颈前杠铃推举最大单次重量为 70 公斤，今天的训练目标是提升肩部肌肉耐力，请为我设计今天推举的训练方案，写明重量选择、单组次数、组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_07",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 66 岁，我的平板杠铃卧推最大单次重量为 55 公斤，今天的训练目标是力量提升，请为我设计今天卧推的训练方案，写明重量选择、单组次数、组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_08",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 67 岁，我的颈前杠铃推举 1RM 是 42 公斤，我想进行提升肩部肌肉耐力的训练，请为我规划今日推举的训练内容，需包含重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_09",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 23 岁，我的俯身杠铃划船 1RM 为 95 公斤，想通过该动作增加背部肌肉体积，请帮我规划今日划船的训练内容，包括重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_10",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 24 岁，我的卧推 1RM 为 105 公斤，打算通过平板杠铃卧推提升胸部肌肉耐力，请帮我规划今天的训练计划，需包含重量选择、每组次数、组数和休息时长。"
+      }
+    },
+    {
+      "id": "em_subj_11",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 28 岁，我的颈前杠铃推举最大单次重量是 78 公斤，目标是上肢力量提升，请为我制定今天推举的训练内容，写明重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_12",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 22 岁，我的颈前杠铃推举最大重量是 70 公斤，准备进行提升力量水平的训练，请为我安排今天的颈前杠铃推举计划，涵盖重量选择、每组次数、总组数以及组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_13",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 37 岁，我的俯身杠铃划船最大单次拉起重量是 95 公斤，想通过今天的训练提升背部力量水平，请帮我制定一份划船的训练内容，需包含重量选择、每组的次数、总组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_14",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 26 岁，我的卧推最大重量是 100 公斤，准备进行提升力量水平的训练，请为我安排今天的平板杠铃卧推计划，涵盖重量选择、每组次数、总组数以及组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_15",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 31 岁，我的卧推 1RM 为 120 公斤，训练目标是提升胸部肌肉耐力，请为我设计今天卧推的训练方案，涵盖重量选择、单组次数、总组数和组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_16",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 35 岁，我的颈前杠铃推举最大单次重量是 68 公斤，想通过今天的训练提升力量水平，请帮我制定一份推举的训练内容，需包含重量选择、每组的次数、总组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_17",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 61 岁，我的俯身杠铃划船 1RM 为 80 公斤，训练目标是背部肌肉肥大，请为我设计今天划船的训练方案，涵盖重量选择、单组次数、总组数和组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_18",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 25 岁，我的颈前杠铃推举最大单次重量为 75 公斤，今天的训练目标是爆发力提升，请为我设计今天推举的训练方案，写明重量选择、单组次数、组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_19",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 63 岁，我的卧推最大重量是 55 公斤，准备进行提升胸肌耐力的训练，请为我安排今天的平板杠铃卧推计划，涵盖重量选择、每组次数、总组数以及组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_20",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 24 岁，我的杠铃深蹲 1RM 为 105 公斤，打算通过杠铃深蹲进行下肢肌肥大训练，请帮我规划今天的训练计划，需包含重量选择、每组次数、组数和休息时长。"
+      }
+    },
+    {
+      "id": "em_subj_21",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 70 岁，我的颈前杠铃推举最大单次重量是 38 公斤，想通过今天的训练促进肩部肌肉增长，请帮我制定一份推举的训练内容，需包含重量选择、每组的次数、总组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_22",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 60 岁，我的颈前杠铃推举最大单次重量为 55 公斤，今天的训练目标是提升肩部肌肉维度，请为我设计今天推举的训练方案，写明重量选择、单组次数、组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_23",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 23 岁，我的杠铃深蹲 1RM 为 95 公斤，想通过该动作实现爆发力提升，请帮我规划今日深蹲的训练内容，包括重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_24",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 32 岁，我的平板杠铃卧推 1RM 是 110 公斤，我想进行提升胸肌耐力的训练，请为我规划今日卧推的训练内容，需包含重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_25",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 40 岁，我的平板杠铃卧推最大重量是 100 公斤，想要通过训练提升爆发力，请为我制定今天的训练计划，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_26",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 21 岁，我的杠铃深蹲最大单次重量是 75 公斤，目标是提升爆发力，请为我制定今天深蹲的训练内容，写明重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_27",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 26 岁，我的卧推最大重量是 100 公斤，准备进行提升胸肌耐力的训练，请为我安排今天的平板杠铃卧推计划，涵盖重量选择、每组次数、总组数以及组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_28",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 56 岁，我的平板杠铃卧推最大单次重量是 68 公斤，目标是力量提升，请为我制定今天卧推的训练内容，写明重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_29",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 73 岁，我的杠铃深蹲最大单次推起重量是 55 公斤，想通过今天的训练增强爆发力，请帮我制定一份深蹲的训练内容，需包含重量选择、每组的次数、总组数和组间休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_30",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 21 岁，我的平板杠铃卧推最大单次重量是 75 公斤，目标是提升爆发力，请为我制定今天卧推的训练内容，写明重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_31",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 20 岁，现在准备进行俯身杠铃划船训练，最大单次拉起重量是 80 公斤，目标是提升爆发力，请为我制定今天划船的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_32",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 26 岁，我的杠铃深蹲最大重量是 100 公斤，准备进行肌肥大训练，请为我安排今天的杠铃深蹲计划，涵盖重量选择、每组次数、总组数以及组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_33",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 31 岁，我的卧推 1RM 为 120 公斤，训练目标是提升爆发力，请为我设计今天卧推的训练方案，涵盖重量选择、单组次数、总组数和组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_34",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 56 岁，我的俯身杠铃划船最大单次重量是 100 公斤，目标是背部力量提升，请为我制定今天划船的训练内容，写明重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_35",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 61 岁，我的杠铃深蹲 1RM 为 85 公斤，打算通过杠铃深蹲实现爆发力提升，请帮我规划今天的训练计划，需包含重量选择、每组次数、组数和休息时长。"
+      }
+    },
+    {
+      "id": "em_subj_36",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 40 岁，我的杠铃深蹲最大重量是 100 公斤，想要进行腿部肌肥大训练，请为我制定今天的训练计划，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_37",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 31 岁，我的杠铃深蹲 1RM 为 120 公斤，训练目标是下肢力量提升，请为我设计今天深蹲的训练方案，涵盖重量选择、单组次数、总组数和组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_38",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 70 岁，我的杠铃深蹲 1RM 是 65 公斤，我想进行提升爆发力的训练，请为我规划今日深蹲的训练内容，需包含重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_39",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 23 岁，我的平板杠铃卧推 1RM 为 95 公斤，想通过该动作实现爆发力提升，请帮我规划今日卧推的训练内容，包括重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_40",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 20 岁，现在准备进行平板杠铃卧推训练，最大单次推起重量是 80 公斤，目标是提升力量水平，请为我制定今天卧推的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_41",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 55 岁，现在准备进行平板杠铃卧推训练，最大单次推起重量是 65 公斤，目标是提升胸部肌肉耐力，请为我制定今天卧推的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_42",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 69 岁，我的深蹲 1RM 为 70 公斤，训练目标是提升爆发力，请为我设计今天深蹲的训练方案，涵盖重量选择、单组次数、总组数和组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_43",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 31 岁，我的杠铃深蹲 1RM 为 120 公斤，训练目标是提升下肢肌肉耐力，请为我设计今天深蹲的训练方案，涵盖重量选择、单组次数、总组数和组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_44",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 55 岁，现在准备进行颈前杠铃推举训练，最大单次重量是 62 公斤，目标是提升上肢力量水平，请为我制定今天推举的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_45",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 75 岁，我的平板杠铃卧推最大重量是 40 公斤，想要通过训练实现力量提升，请为我制定今天的训练计划，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_46",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 21 岁，我的杠铃深蹲最大单次重量是 75 公斤，目标是下肢力量提升，请为我制定今天深蹲的训练内容，写明重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_47",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 31 岁，我的俯身杠铃划船 1RM 为 100 公斤，训练目标是背部肌肉肥大，请为我设计今天划船的训练方案，涵盖重量选择、单组次数、总组数和组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_48",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 72 岁，我的俯身杠铃划船最大单次拉起重量是 50 公斤，想通过今天的训练提升背部肌肉耐力，请帮我制定一份划船的训练内容，需包含重量选择、每组的次数、总组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_49",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 56 岁，我的俯身杠铃划船最大单次重量是 100 公斤，目标是提升爆发力，请为我制定今天划船的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_50",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 28 岁，我的颈前杠铃推举最大单次重量是 80 公斤，目标是提升爆发力，请为我制定今天推举的训练内容，写明重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_51",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 21 岁，我的俯身杠铃划船最大单次重量是 75 公斤，目标是背部肌肥大，请为我制定今天划船的训练内容，写明重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_52",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 66 岁，我的俯身杠铃划船最大单次重量为 70 公斤，今天的训练目标是背部力量提升，请为我设计今天划船的训练方案，写明重量选择、单组次数、组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_53",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 62 岁，我的深蹲最大重量是 80 公斤，准备进行提升爆发力的训练，请为我安排今天的杠铃深蹲计划，涵盖重量选择、每组次数、总组数以及组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_54",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 40 岁，我的俯身杠铃划船最大重量是 100 公斤，想要通过训练提升爆发力，请为我制定今天的训练计划，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_55",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 20 岁，我的颈前杠铃推举 1RM 为 65 公斤，想通过该动作增加肩部肌肉体积，请帮我规划今日推举的训练内容，包括重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_56",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 57 岁，我的颈前杠铃推举 1RM 为 62 公斤，想通过该动作增加肩部肌肉体积，请帮我规划今日推举的训练内容，包括重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_57",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 70 岁，我的杠铃深蹲 1RM 是 60 公斤，我想进行提升下肢肌肉耐力的训练，请为我规划今日深蹲的训练内容，需包含重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_58",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 18 岁，现在准备进行颈前杠铃推举训练，最大单次重量是 55 公斤，目标是提升爆发力，请为我制定今天推举的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_59",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 70 岁，我的平板杠铃卧推 1RM 是 45 公斤，我想进行提升胸肌耐力的训练，请为我规划今日卧推的训练内容，需包含重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_60",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 55 岁，现在准备进行颈前杠铃推举训练，最大单次重量是 65 公斤，目标是提升爆发力，请为我制定今天推举的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_61",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 40 岁，我的杠铃深蹲最大重量是 100 公斤，想要通过训练提升下肢肌肉耐力，请为我制定今天的训练计划，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_62",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 29 岁，我的杠铃深蹲最大单次重量为 85 公斤，今天的训练目标是提升下肢肌肉维度，请为我设计今天深蹲的训练方案，写明重量选择、单组次数、组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_63",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 24 岁，我的俯身杠铃划船 1RM 为 100 公斤，打算通过俯身杠铃划船进行背部肌肥大训练，请帮我规划今天的训练计划，需包含重量选择、每组次数、组数和休息时长。"
+      }
+    },
+    {
+      "id": "em_subj_64",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 77 岁，我的杠铃深蹲最大重量是 45 公斤，想要通过训练提升下肢肌肉耐力，请为我制定今天的训练计划，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_65",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 69 岁，我的平板杠铃卧推 1RM 是 50 公斤，我想进行提升力量水平的训练，请为我规划今日卧推的训练内容，需包含重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_66",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 26 岁，我的颈前杠铃推举 1RM 是 72 公斤，我想进行提升肩部肌肉耐力的训练，请为我规划今日推举的训练内容，需包含重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_67",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 24 岁，我的杠铃深蹲 1RM 为 105 公斤，打算通过杠铃深蹲提升下肢肌肉耐力，请帮我规划今天的训练计划，需包含重量选择、每组次数、组数和休息时长。"
+      }
+    },
+    {
+      "id": "em_subj_68",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 18 岁，现在准备进行颈前杠铃推举训练，最大单次重量是 50 公斤，目标是提升肩部肌肉耐力，请为我制定今天推举的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_69",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 63 岁，我的俯身杠铃划船最大重量是 70 公斤，准备进行提升背部肌肉耐力的训练，请为我安排今天的俯身杠铃划船计划，涵盖重量选择、每组次数、总组数以及组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_70",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 59 岁，我的杠铃深蹲 1RM 为 85 公斤，想通过该动作提升下肢肌肉耐力，请帮我规划今日深蹲的训练内容，包括重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_71",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 78 岁，我的颈前杠铃推举最大单次重量是 30 公斤，想通过今天的训练提升肩部肌肉耐力，请帮我制定一份推举的训练内容，需包含重量选择、每组的次数、总组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_72",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 26 岁，我的卧推最大重量是 100 公斤，准备进行提升爆发力的训练，请为我安排今天的平板杠铃卧推计划，涵盖重量选择、每组次数、总组数以及组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_73",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 40 岁，我的颈前杠铃推举最大重量是 65 公斤，想要通过训练提升爆发力，请为我制定今天的训练计划，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_74",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 32 岁，我的俯身杠铃划船 1RM 是 100 公斤，我想进行提升爆发力的训练，请为我规划今日划船的训练内容，需包含重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_75",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 26 岁，我的俯身杠铃划船最大重量是 100 公斤，准备进行肌肥大训练，请为我安排今天的俯身杠铃划船计划，涵盖重量选择、每组次数、总组数以及组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_76",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 22 岁，我的颈前杠铃推举最大重量是 70 公斤，准备进行提升爆发力的训练，请为我安排今天的颈前杠铃推举计划，涵盖重量选择、每组次数、总组数以及组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_77",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 40 岁，我的俯身杠铃划船最大重量是 100 公斤，想要通过训练提升背部肌肉耐力，请为我制定今天的训练计划，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_78",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 40 岁，我的杠铃深蹲最大重量是 100 公斤，想要通过训练实现下肢力量提升，请为我制定今天的训练计划，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_79",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 32 岁，我的杠铃深蹲 1RM 是 110 公斤，我想进行提升下肢肌肉耐力的训练，请为我规划今日深蹲的训练内容，需包含重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_80",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 23 岁，我的俯身杠铃划船 1RM 为 95 公斤，想通过该动作实现背部力量提升，请帮我规划今日划船的训练内容，包括重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_81",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 40 岁，我的颈前杠铃推举最大重量是 65 公斤，想要通过训练实现力量提升，请为我制定今天的训练计划，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_82",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 64 岁，我的俯身杠铃划船 1RM 为 70 公斤，训练目标是背部力量提升，请为我设计今天划船的训练方案，涵盖重量选择、单组次数、总组数和组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_83",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 70 岁，我的俯身杠铃划船最大重量是 60 公斤，想要进行背部肌肥大训练，请为我制定今天的训练计划，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_84",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 23 岁，我的俯身杠铃划船 1RM 为 95 公斤，想通过该动作提升背部肌肉耐力，请帮我规划今日划船的训练内容，包括重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_85",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 55 岁，现在准备进行俯身杠铃划船训练，最大单次拉起重量是 85 公斤，目标是背部肌肥大，请为我制定今天划船的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_86",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 56 岁，我的平板杠铃卧推最大单次重量是 62 公斤，目标是提升胸肌耐力，请为我制定今天卧推的训练内容，写明重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_87",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 58 岁，我的平板杠铃卧推 1RM 为 75 公斤，想通过该动作增加胸肌体积，请帮我规划今日卧推的训练内容，包括重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_88",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 58 岁，我的颈前杠铃推举 1RM 为 55 公斤，想通过该动作提升肩部肌肉耐力，请帮我规划今日推举的训练内容，包括重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_89",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 37 岁，我的平板杠铃卧推最大单次推起重量是 95 公斤，想通过今天的训练促进胸肌增长，请帮我制定一份卧推的训练内容，需包含重量选择、每组的次数、总组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_90",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 23 岁，我的杠铃深蹲 1RM 为 95 公斤，想通过该动作增加下肢肌肉体积，请帮我规划今日深蹲的训练内容，包括重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_91",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 63 岁，我的俯身杠铃划船最大单次重量为 75 公斤，今天的训练目标是提升背部肌肉维度，请为我设计今天划船的训练方案，写明重量选择、单组次数、组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_92",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 60 岁，我的卧推 1RM 为 65 公斤，打算通过平板杠铃卧推提升力量水平，请帮我规划今天的训练计划，需包含重量选择、每组次数、组数和休息时长。"
+      }
+    },
+    {
+      "id": "em_subj_93",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 26 岁，我的卧推最大重量是 100 公斤，准备进行肌肥大训练，请为我安排今天的平板杠铃卧推计划，涵盖重量选择、每组次数、总组数以及组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_94",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 29 岁，我的杠铃深蹲最大单次重量为 85 公斤，今天的训练目标是爆发力提升，请为我设计今天深蹲的训练方案，写明重量选择、单组次数、组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_95",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 55 岁，现在准备进行俯身杠铃划船训练，最大单次拉起重量是 90 公斤，目标是提升爆发力，请为我制定今天划船的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_96",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 32 岁，我的平板杠铃卧推 1RM 是 110 公斤，我想进行提升爆发力的训练，请为我规划今日卧推的训练内容，需包含重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_97",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 40 岁，我的平板杠铃卧推最大重量是 100 公斤，想要通过训练实现力量提升，请为我制定今天的训练计划，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_98",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 56 岁，我的平板杠铃卧推最大单次重量是 68 公斤，目标是提升爆发力，请为我制定今天卧推的训练内容，写明重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_99",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 29 岁，我的杠铃深蹲最大单次重量为 85 公斤，今天的训练目标是提升下肢肌肉耐力，请为我设计今天深蹲的训练方案，写明重量选择、单组次数、组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_100",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 37 岁，我的杠铃深蹲最大单次推起重量是 95 公斤，想通过今天的训练增强爆发力，请帮我制定一份深蹲的训练内容，需包含重量选择、每组的次数、总组数和组间休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_101",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 31 岁，我的俯身杠铃划船 1RM 为 100 公斤，训练目标是提升爆发力，请为我设计今天划船的训练方案，涵盖重量选择、单组次数、总组数和组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_102",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 20 岁，现在准备进行杠铃深蹲训练，最大单次重量是 80 公斤，目标是提升下肢肌肉耐力，请为我制定今天深蹲的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_103",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 71 岁，我的平板杠铃卧推最大单次推起重量是 45 公斤，想通过今天的训练提升力量水平，请帮我制定一份卧推的训练内容，需包含重量选择、每组的次数、总组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_104",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 22 岁，我的颈前杠铃推举最大重量是 65 公斤，准备进行提升肩部肌肉耐力的训练，请为我安排今天的颈前杠铃推举计划，涵盖重量选择、每组次数、总组数以及组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_105",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 40 岁，我的杠铃深蹲最大重量是 100 公斤，想要通过训练提升爆发力，请为我制定今天的训练计划，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_106",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 23 岁，我的平板杠铃卧推 1RM 为 95 公斤，想通过该动作实现力量提升，请帮我规划今日卧推的训练内容，包括重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_107",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 21 岁，我的平板杠铃卧推最大单次重量是 75 公斤，目标是胸肌肥大，请为我制定今天卧推的训练内容，写明重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_108",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 63 岁，我的平板杠铃卧推最大单次重量为 60 公斤，今天的训练目标是提升胸肌维度，请为我设计今天卧推的训练方案，写明重量选择、单组次数、组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_109",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 80 岁，我的颈前杠铃推举最大重量是 28 公斤，想要通过训练提升爆发力，请为我制定今天的训练计划，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_110",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 24 岁，我的杠铃深蹲 1RM 为 105 公斤，打算通过杠铃深蹲提升下肢力量水平，请帮我规划今天的训练计划，需包含重量选择、每组次数、组数和休息时长。"
+      }
+    },
+    {
+      "id": "em_subj_111",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 70 岁，我的颈前杠铃推举 1RM 为 42 公斤，打算通过颈前杠铃推举提升力量水平，请帮我规划今天的训练计划，需包含重量选择、每组次数、组数和休息时长。"
+      }
+    },
+    {
+      "id": "em_subj_112",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 72 岁，我的杠铃深蹲最大单次推起重量是 50 公斤，想通过今天的训练提升下肢肌肉耐力，请帮我制定一份深蹲的训练内容，需包含重量选择、每组的次数、总组数和组间休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_113",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 20 岁，现在准备进行俯身杠铃划船训练，最大单次拉起重量是 80 公斤，目标是背部肌肥大，请为我制定今天划船的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_114",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 20 岁，我的颈前杠铃推举 1RM 为 65 公斤，想通过该动作实现力量提升，请帮我规划今日推举的训练内容，包括重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_115",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 32 岁，我的杠铃深蹲 1RM 是 110 公斤，我想进行腿部肌肥大训练，请为我规划今日深蹲的训练内容，需包含重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_116",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 29 岁，我的俯身杠铃划船最大单次重量为 85 公斤，今天的训练目标是爆发力提升，请为我设计今天划船的训练方案，写明重量选择、单组次数、组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_117",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 20 岁，现在准备进行平板杠铃卧推训练，最大单次推起重量是 80 公斤，目标是提升爆发力，请为我制定今天卧推的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_118",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 80 岁，我的颈前杠铃推举最大重量是 30 公斤，想要通过训练实现力量提升，请为我制定今天的训练计划，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_119",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 67 岁，我的杠铃深蹲最大单次重量为 70 公斤，今天的训练目标是爆发力提升，请为我设计今天深蹲的训练方案，写明重量选择、单组次数、组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_120",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 35 岁，我的颈前杠铃推举最大单次重量是 60 公斤，想通过今天的训练提升肩部肌肉耐力，请帮我制定一份推举的训练内容，需包含重量选择、每组的次数、总组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_121",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 58 岁，我的杠铃深蹲 1RM 为 90 公斤，想通过该动作实现爆发力提升，请帮我规划今日深蹲的训练内容，包括重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_122",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 57 岁，我的俯身杠铃划船最大单次重量是 88 公斤，目标是背部肌肥大，请为我制定今天划船的训练内容，写明重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_123",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 31 岁，我的颈前杠铃推举 1RM 为 70 公斤，训练目标是上肢力量提升，请为我设计今天推举的训练方案，涵盖重量选择、单组次数、总组数和组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_124",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 61 岁，我的深蹲 1RM 为 85 公斤，训练目标是下肢肌肉肥大，请为我设计今天深蹲的训练方案，涵盖重量选择、单组次数、总组数和组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_125",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 24 岁，我的俯身杠铃划船 1RM 为 100 公斤，打算通过俯身杠铃划船提升背部力量水平，请帮我规划今天的训练计划，需包含重量选择、每组次数、组数和休息时长。"
+      }
+    },
+    {
+      "id": "em_subj_126",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 64 岁，我的颈前杠铃推举最大单次重量为 45 公斤，今天的训练目标是提升肩部肌肉耐力，请为我设计今天推举的训练方案，写明重量选择、单组次数、组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_127",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 57 岁，我的杠铃深蹲最大单次重量是 90 公斤，目标是腿部肌肥大，请为我制定今天深蹲的训练内容，写明重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_128",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 26 岁，我的颈前杠铃推举 1RM 是 78 公斤，我想进行提升爆发力的训练，请为我规划今日推举的训练内容，需包含重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_129",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 31 岁，我的卧推 1RM 为 120 公斤，训练目标是力量提升，请为我设计今天卧推的训练方案，涵盖重量选择、单组次数、总组数和组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_130",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 31 岁，我的颈前杠铃推举 1RM 为 70 公斤，训练目标是提升爆发力，请为我设计今天推举的训练方案，涵盖重量选择、单组次数、总组数和组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_131",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 60 岁，我的俯身杠铃划船最大重量是 80 公斤，准备进行肌肥大训练，请为我安排今天的俯身杠铃划船计划，涵盖重量选择、每组次数、总组数以及组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_132",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 29 岁，我的平板杠铃卧推最大单次重量为 85 公斤，今天的训练目标是力量提升，请为我设计今天卧推的训练方案，写明重量选择、单组次数、组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_133",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 24 岁，我的俯身杠铃划船 1RM 为 100 公斤，打算通过俯身杠铃划船实现爆发力提升，请帮我规划今天的训练计划，需包含重量选择、每组次数、组数和休息时长。"
+      }
+    },
+    {
+      "id": "em_subj_134",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 59 岁，我的俯身杠铃划船 1RM 为 80 公斤，想通过该动作提升背部肌肉耐力，请帮我规划今日划船的训练内容，包括重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_135",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 37 岁，我的杠铃深蹲最大单次推起重量是 95 公斤，想通过今天的训练提升下肢肌肉耐力，请帮我制定一份深蹲的训练内容，需包含重量选择、每组的次数、总组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_136",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 23 岁，我的平板杠铃卧推 1RM 为 95 公斤，想通过该动作提升胸肌耐力，请帮我规划今日卧推的训练内容，包括重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_137",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 66 岁，我的俯身杠铃划船最大单次重量为 65 公斤，今天的训练目标是提升背部肌肉耐力，请为我设计今天划船的训练方案，写明重量选择、单组次数、组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_138",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 58 岁，我的颈前杠铃推举 1RM 为 60 公斤，想通过该动作实现力量提升，请帮我规划今日推举的训练内容，包括重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_139",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 58 岁，我的平板杠铃卧推 1RM 为 72 公斤，想通过该动作实现力量提升，请帮我规划今日卧推的训练内容，包括重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_140",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 29 岁，我的平板杠铃卧推最大单次重量为 85 公斤，今天的训练目标是提升胸肌维度，请为我设计今天卧推的训练方案，写明重量选择、单组次数、组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_141",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 61 岁，我的颈前杠铃推举 1RM 是 50 公斤，我想进行肩部肌肥大训练，请为我规划今日推举的训练内容，需包含重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_142",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 72 岁，我的颈前杠铃推举最大重量是 35 公斤，想要进行肩部肌肥大训练，请为我制定今天的训练计划，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_143",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 62 岁，我的俯身杠铃划船最大重量是 75 公斤，准备进行提升背部力量水平的训练，请为我安排今天的俯身杠铃划船计划，涵盖重量选择、每组次数、总组数以及组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_144",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 66 岁，我的平板杠铃卧推最大单次重量为 50 公斤，今天的训练目标是提升胸部肌肉耐力，请为我设计今天卧推的训练方案，写明重量选择、单组次数、组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_145",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 58 岁，我的俯身杠铃划船 1RM 为 90 公斤，想通过该动作增加背部肌肉体积，请帮我规划今日划船的训练内容，包括重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_146",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 26 岁，我的颈前杠铃推举 1RM 是 80 公斤，我想进行提升力量水平的训练，请为我规划今日推举的训练内容，需包含重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_147",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 37 岁，我的平板杠铃卧推最大单次推起重量是 95 公斤，想通过今天的训练增强爆发力，请帮我制定一份卧推的训练内容，需包含重量选择、每组的次数、总组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_148",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 37 岁，我的俯身杠铃划船最大单次拉起重量是 95 公斤，想通过今天的训练促进背部肌肉增长，请帮我制定一份划船的训练内容，需包含重量选择、每组的次数、总组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_149",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 21 岁，我的俯身杠铃划船最大单次重量是 75 公斤，目标是背部力量提升，请为我制定今天划船的训练内容，写明重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_150",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 24 岁，我的卧推 1RM 为 105 公斤，打算通过平板杠铃卧推进行胸部肌肥大训练，请帮我规划今天的训练计划，需包含重量选择、每组次数、组数和休息时长。"
+      }
+    },
+    {
+      "id": "em_subj_151",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 70 岁，我的杠铃深蹲最大重量是 65 公斤，想要进行腿部肌肥大训练，请为我制定今天的训练计划，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_152",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 30 岁，我的颈前杠铃推举 1RM 为 85 公斤，打算通过颈前杠铃推举实现爆发力提升，请帮我规划今天的训练计划，需包含重量选择、每组次数、组数和休息时长。"
+      }
+    },
+    {
+      "id": "em_subj_153",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 37 岁，我的平板杠铃卧推最大单次推起重量是 95 公斤，想通过今天的训练提升力量水平，请帮我制定一份卧推的训练内容，需包含重量选择、每组的次数、总组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_154",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 37 岁，我的俯身杠铃划船最大单次拉起重量是 95 公斤，想通过今天的训练提升背部肌肉耐力，请帮我制定一份划船的训练内容，需包含重量选择、每组的次数、总组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_155",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 20 岁，现在准备进行杠铃深蹲训练，最大单次重量是 80 公斤，目标是提升下肢力量水平，请为我制定今天深蹲的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_156",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 24 岁，我的俯身杠铃划船 1RM 为 100 公斤，打算通过俯身杠铃划船提升背部肌肉耐力，请帮我规划今天的训练计划，需包含重量选择、每组次数、组数和休息时长。"
+      }
+    },
+    {
+      "id": "em_subj_157",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 73 岁，我的颈前杠铃推举 1RM 为 38 公斤，训练目标是上肢力量提升，请为我设计今天推举的训练方案，涵盖重量选择、单组次数、总组数和组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_158",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 30 岁，我的颈前杠铃推举 1RM 为 85 公斤，打算通过颈前杠铃推举进行肩部肌肥大训练，请帮我规划今天的训练计划，需包含重量选择、每组次数、组数和休息时长。"
+      }
+    },
+    {
+      "id": "em_subj_159",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 55 岁，现在准备进行杠铃深蹲训练，最大单次推起重量是 105 公斤，目标是提升下肢力量水平，请为我制定今天深蹲的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_160",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 78 岁，我的俯身杠铃划船最大重量是 50 公斤，想要通过训练提升爆发力，请为我制定今天的训练计划，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_161",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 55 岁，现在准备进行杠铃深蹲训练，最大单次推起重量是 100 公斤，目标是提升爆发力，请为我制定今天深蹲的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_162",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 40 岁，我的颈前杠铃推举最大重量是 55 公斤，想要通过训练提升肩部肌肉耐力，请为我制定今天的训练计划，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_163",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 67 岁，我的俯身杠铃划船最大单次重量为 70 公斤，今天的训练目标是爆发力提升，请为我设计今天划船的训练方案，写明重量选择、单组次数、组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_164",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 26 岁，我的俯身杠铃划船最大重量是 100 公斤，准备进行提升背部力量水平的训练，请为我安排今天的俯身杠铃划船计划，涵盖重量选择、每组次数、总组数以及组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_165",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 59 岁，我的俯身杠铃划船 1RM 为 95 公斤，打算通过俯身杠铃划船进行背部肌肥大训练，请帮我规划今天的训练计划，需包含重量选择、每组次数、组数和休息时长。"
+      }
+    },
+    {
+      "id": "em_subj_166",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 65 岁，我的颈前杠铃推举 1RM 为 45 公斤，打算通过颈前杠铃推举进行肩部肌肥大训练，请帮我规划今天的训练计划，需包含重量选择、每组次数、组数和休息时长。"
+      }
+    },
+    {
+      "id": "em_subj_167",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 26 岁，我的杠铃深蹲最大重量是 100 公斤，准备进行提升爆发力的训练，请为我安排今天的杠铃深蹲计划，涵盖重量选择、每组次数、总组数以及组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_168",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 20 岁，现在准备进行俯身杠铃划船训练，最大单次重量是 80 公斤，目标是提升背部力量水平，请为我制定今天划船的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_169",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 40 岁，我的俯身杠铃划船最大重量是 100 公斤，想要进行背部肌肥大训练，请为我制定今天的训练计划，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_170",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 20 岁，我的颈前杠铃推举 1RM 为 60 公斤，想通过该动作提升肩部肌肉耐力，请帮我规划今日推举的训练内容，包括重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_171",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 28 岁，我的颈前杠铃推举最大单次重量是 70 公斤，目标是提升肩部肌肉耐力，请为我制定今天推举的训练内容，写明重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_172",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 67 岁，我的平板杠铃卧推最大单次推起重量是 50 公斤，想通过今天的训练促进胸肌增长，请帮我制定一份卧推的训练内容，需包含重量选择、每组的次数、总组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_173",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 29 岁，我的平板杠铃卧推最大单次重量为 85 公斤，今天的训练目标是提升胸部肌肉耐力，请为我设计今天卧推的训练方案，写明重量选择、单组次数、组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_174",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 71 岁，我的俯身杠铃划船最大单次拉起重量是 55 公斤，想通过今天的训练提升背部力量水平，请帮我制定一份划船的训练内容，需包含重量选择、每组的次数、总组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_175",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 23 岁，我的杠铃深蹲 1RM 为 95 公斤，想通过该动作提升下肢肌肉耐力，请帮我规划今日深蹲的训练内容，包括重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_176",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 60 岁，我的俯身杠铃划船 1RM 为 82 公斤，打算通过俯身杠铃划船提升背部力量水平，请帮我规划今天的训练计划，需包含重量选择、每组次数、组数和休息时长。"
+      }
+    },
+    {
+      "id": "em_subj_177",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 40 岁，我的俯身杠铃划船最大重量是 100 公斤，想要通过训练实现背部力量提升，请为我制定今天的训练计划，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_178",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 59 岁，我的平板杠铃卧推 1RM 为 60 公斤，想通过该动作提升胸肌耐力，请帮我规划今日卧推的训练内容，包括重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_179",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 71 岁，我的杠铃深蹲最大单次推起重量是 55 公斤，想通过今天的训练提升下肢力量水平，请帮我制定一份深蹲的训练内容，需包含重量选择、每组的次数、总组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_180",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 67 岁，我的俯身杠铃划船最大单次拉起重量是 65 公斤，想通过今天的训练促进背部肌肉增长，请帮我制定一份划船的训练内容，需包含重量选择、每组的次数、总组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_181",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 67 岁，我的颈前杠铃推举最大单次重量是 45 公斤，目标是上肢力量提升，请为我制定今天推举的训练内容，写明重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_182",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 77 岁，我的俯身杠铃划船最大重量是 45 公斤，想要通过训练提升背部肌肉耐力，请为我制定今天的训练计划，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_183",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 65 岁，我的颈前杠铃推举 1RM 是 48 公斤，我想进行提升力量水平的训练，请为我规划今日推举的训练内容，需包含重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_184",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 21 岁，我的俯身杠铃划船最大单次重量是 75 公斤，目标是提升爆发力，请为我制定今天划船的训练内容，写明重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_185",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 55 岁，现在准备进行颈前杠铃推举训练，最大单次重量是 60 公斤，目标是肩部肌肥大，请为我制定今天推举的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_186",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 59 岁，我的颈前杠铃推举最大重量是 58 公斤，准备进行肌肥大训练，请为我安排今天的颈前杠铃推举计划，涵盖重量选择、每组次数、总组数以及组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_187",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 64 岁，我的深蹲 1RM 为 75 公斤，训练目标是下肢力量提升，请为我设计今天深蹲的训练方案，涵盖重量选择、单组次数、总组数和组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_188",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 76 岁，我的颈前杠铃推举最大单次重量是 35 公斤，想通过今天的训练提升力量水平，请帮我制定一份推举的训练内容，需包含重量选择、每组的次数、总组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_189",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 70 岁，我的俯身杠铃划船 1RM 是 60 公斤，我想进行提升背部肌肉耐力的训练，请为我规划今日划船的训练内容，需包含重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_190",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 62 岁，我的杠铃深蹲最大重量是 80 公斤，准备进行提升下肢力量水平的训练，请为我安排今天的杠铃深蹲计划，涵盖重量选择、每组次数、总组数以及组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_191",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 61 岁，我的卧推 1RM 为 60 公斤，训练目标是胸部肌肉肥大，请为我设计今天卧推的训练方案，涵盖重量选择、单组次数、总组数和组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_192",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 58 岁，我的杠铃深蹲 1RM 为 105 公斤，想通过该动作增加下肢肌肉体积，请帮我规划今日深蹲的训练内容，包括重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_193",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 55 岁，现在准备进行平板杠铃卧推训练，最大单次推起重量是 70 公斤，目标是胸部肌肥大，请为我制定今天卧推的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_194",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 68 岁，我的俯身杠铃划船 1RM 为 65 公斤，训练目标是提升背部肌肉耐力，请为我设计今天划船的训练方案，涵盖重量选择、单组次数、总组数和组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_195",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 40 岁，我的平板杠铃卧推最大重量是 100 公斤，想要通过训练提升肌肉耐力，请为我制定今天的训练计划，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_196",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 21 岁，我的平板杠铃卧推最大单次重量是 75 公斤，目标是提升胸肌耐力，请为我制定今天卧推的训练内容，写明重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_197",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 75 岁，我的杠铃深蹲最大重量是 50 公斤，想要通过训练实现下肢力量提升，请为我制定今天的训练计划，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_198",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 72 岁，我的平板杠铃卧推最大单次推起重量是 40 公斤，想通过今天的训练提升胸肌耐力，请帮我制定一份卧推的训练内容，需包含重量选择、每组的次数、总组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_199",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 31 岁，我的俯身杠铃划船 1RM 为 100 公斤，训练目标是背部力量提升，请为我设计今天划船的训练方案，涵盖重量选择、单组次数、总组数和组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_200",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 28 岁，我的颈前杠铃推举最大单次重量是 78 公斤，目标是肩部肌肥大，请为我制定今天推举的训练内容，写明重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_201",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 78 岁，我的杠铃深蹲最大重量是 50 公斤，想要通过训练提升爆发力，请为我制定今天的训练计划，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_202",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 59 岁，我的杠铃深蹲 1RM 为 100 公斤，打算通过杠铃深蹲进行下肢肌肥大训练，请帮我规划今天的训练计划，需包含重量选择、每组次数、组数和休息时长。"
+      }
+    },
+    {
+      "id": "em_subj_203",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 69 岁，我的俯身杠铃划船 1RM 是 65 公斤，我想进行提升背部力量水平的训练，请为我规划今日划船的训练内容，需包含重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_204",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 37 岁，我的平板杠铃卧推最大单次推起重量是 95 公斤，想通过今天的训练提升胸肌耐力，请帮我制定一份卧推的训练内容，需包含重量选择、每组的次数、总组数和休息间隔"
+      }
+    },
+    {
+      "id": "em_subj_205",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 68 岁，我的深蹲 1RM 为 65 公斤，训练目标是提升下肢肌肉耐力，请为我设计今天深蹲的训练方案，涵盖重量选择、单组次数、总组数和组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_206",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 67 岁，我的平板杠铃卧推最大单次重量为 50 公斤，今天的训练目标是爆发力提升，请为我设计今天卧推的训练方案，写明重量选择、单组次数、组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_207",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 18 岁，现在准备进行颈前杠铃推举训练，最大单次重量是 55 公斤，目标是提升上肢力量水平，请为我制定今天推举的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_208",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 20 岁，现在准备进行平板杠铃卧推训练，最大单次推起重量是 80 公斤，目标是提升胸部肌肉耐力，请为我制定今天卧推的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_209",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 40 岁，我的平板杠铃卧推最大重量是 100 公斤，想要进行胸肌肥大训练，请为我制定今天的训练计划，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_210",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 78 岁，我的颈前杠铃推举最大单次重量是 30 公斤，想通过今天的训练增强爆发力，请帮我制定一份推举的训练内容，需包含重量选择、每组的次数、总组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_211",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 60 岁，我的杠铃深蹲最大重量是 95 公斤，准备进行肌肥大训练，请为我安排今天的杠铃深蹲计划，涵盖重量选择、每组次数、总组数以及组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_212",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 20 岁，现在准备进行俯身杠铃划船训练，最大单次重量是 80 公斤，目标是提升背部肌肉耐力，请为我制定今天划船的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_213",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 75 岁，我的俯身杠铃划船最大重量是 50 公斤，想要通过训练实现背部力量提升，请为我制定今天的训练计划，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_214",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 56 岁，我的杠铃深蹲最大单次重量是 105 公斤，目标是提升爆发力，请为我制定今天深蹲的训练内容，写明重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_215",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 65 岁，我的俯身杠铃划船 1RM 是 70 公斤，我想进行背部肌肥大训练，请为我规划今日划船的训练内容，需包含重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_216",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 35 岁，我的颈前杠铃推举最大单次重量是 68 公斤，想通过今天的训练促进肩部肌肉增长，请帮我制定一份推举的训练内容，需包含重量选择、每组的次数、总组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_217",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 23 岁，我的杠铃深蹲 1RM 为 95 公斤，想通过该动作实现下肢力量提升，请帮我规划今日深蹲的训练内容，包括重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_218",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 60 岁，我的深蹲 1RM 为 90 公斤，打算通过杠铃深蹲提升下肢力量水平，请帮我规划今天的训练计划，需包含重量选择、每组次数、组数和休息时长。"
+      }
+    },
+    {
+      "id": "em_subj_219",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 80 岁，我的颈前杠铃推举最大重量是 28 公斤，想要通过训练提升肩部肌肉耐力，请为我制定今天的训练计划，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_220",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 68 岁，我的卧推 1RM 为 50 公斤，训练目标是提升胸部肌肉耐力，请为我设计今天卧推的训练方案，涵盖重量选择、单组次数、总组数和组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_221",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 32 岁，我的平板杠铃卧推 1RM 是 110 公斤，我想进行胸部肌肥大训练，请为我规划今日卧推的训练内容，需包含重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_222",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 58 岁，我的颈前杠铃推举 1RM 为 60 公斤，想通过该动作实现爆发力提升，请帮我规划今日推举的训练内容，包括重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_223",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 65 岁，我的平板杠铃卧推 1RM 是 55 公斤，我想进行胸部肌肥大训练，请为我规划今日卧推的训练内容，需包含重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_224",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 62 岁，我的卧推最大重量是 55 公斤，准备进行提升爆发力的训练，请为我安排今天的平板杠铃卧推计划，涵盖重量选择、每组次数、总组数以及组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_225",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 63 岁，我的杠铃深蹲最大单次重量为 85 公斤，今天的训练目标是提升下肢肌肉维度，请为我设计今天深蹲的训练方案，写明重量选择、单组次数、组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_226",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 31 岁，我的杠铃深蹲 1RM 为 120 公斤，训练目标是下肢肌肉肥大，请为我设计今天深蹲的训练方案，涵盖重量选择、单组次数、总组数和组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_227",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 26 岁，我的颈前杠铃推举 1RM 是 80 公斤，我想进行肩部肌肥大训练，请为我规划今日推举的训练内容，需包含重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_228",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 25 岁，我的颈前杠铃推举最大单次重量为 75 公斤，今天的训练目标是提升肩部肌肉维度，请为我设计今天推举的训练方案，写明重量选择、单组次数、组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_229",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 61 岁，我的颈前杠铃推举最大重量是 50 公斤，准备进行提升肩部肌肉耐力的训练，请为我安排今天的颈前杠铃推举计划，涵盖重量选择、每组次数、总组数以及组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_230",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 32 岁，我的杠铃深蹲 1RM 是 110 公斤，我想进行提升爆发力的训练，请为我规划今日深蹲的训练内容，需包含重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_231",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 61 岁，我的卧推 1RM 为 58 公斤，打算通过平板杠铃卧推提升胸部肌肉耐力，请帮我规划今天的训练计划，需包含重量选择、每组次数、组数和休息时长。"
+      }
+    },
+    {
+      "id": "em_subj_232",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 29 岁，我的杠铃深蹲最大单次重量为 85 公斤，今天的训练目标是下肢力量提升，请为我设计今天深蹲的训练方案，写明重量选择、单组次数、组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_233",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 61 岁，我的颈前杠铃推举最大重量是 52 公斤，准备进行提升爆发力的训练，请为我安排今天的颈前杠铃推举计划，涵盖重量选择、每组次数、总组数以及组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_234",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 20 岁，现在准备进行平板杠铃卧推训练，最大单次推起重量是 80 公斤，目标是胸部肌肥大，请为我制定今天卧推的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_235",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 73 岁，我的平板杠铃卧推最大单次推起重量是 40 公斤，想通过今天的训练增强爆发力，请帮我制定一份卧推的训练内容，需包含重量选择、每组的次数、总组数和组间休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_236",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 66 岁，我的杠铃深蹲最大单次重量为 65 公斤，今天的训练目标是提升下肢肌肉耐力，请为我设计今天深蹲的训练方案，写明重量选择、单组次数、组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_237",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 75 岁，我的颈前杠铃推举 1RM 为 35 公斤，训练目标是提升爆发力，请为我设计今天推举的训练方案，涵盖重量选择、单组次数、总组数和组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_238",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 55 岁，现在准备进行俯身杠铃划船训练，最大单次重量是 90 公斤，目标是提升背部力量水平，请为我制定今天划船的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_239",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 66 岁，我的杠铃深蹲最大单次重量为 75 公斤，今天的训练目标是下肢力量提升，请为我设计今天深蹲的训练方案，写明重量选择、单组次数、组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_240",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 55 岁，现在准备进行平板杠铃卧推训练，最大单次推起重量是 70 公斤，目标是提升力量水平，请为我制定今天卧推的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_241",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 55 岁，现在准备进行俯身杠铃划船训练，最大单次重量是 85 公斤，目标是提升背部肌肉耐力，请为我制定今天划船的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_242",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 56 岁，我的杠铃深蹲最大单次重量是 110 公斤，目标是下肢力量提升，请为我制定今天深蹲的训练内容，写明重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_243",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 59 岁，我的卧推 1RM 为 72 公斤，打算通过平板杠铃卧推进行胸部肌肥大训练，请帮我规划今天的训练计划，需包含重量选择、每组次数、组数和休息时长。"
+      }
+    },
+    {
+      "id": "em_subj_244",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 25 岁，我的颈前杠铃推举最大单次重量为 75 公斤，今天的训练目标是上肢力量提升，请为我设计今天推举的训练方案，写明重量选择、单组次数、组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_245",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 30 岁，我的颈前杠铃推举 1RM 为 85 公斤，打算通过颈前杠铃推举提升力量水平，请帮我规划今天的训练计划，需包含重量选择、每组次数、组数和休息时长。"
+      }
+    },
+    {
+      "id": "em_subj_246",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 24 岁，我的卧推 1RM 为 105 公斤，打算通过平板杠铃卧推提升力量水平，请帮我规划今天的训练计划，需包含重量选择、每组次数、组数和休息时长。"
+      }
+    },
+    {
+      "id": "em_subj_247",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 32 岁，我的俯身杠铃划船 1RM 是 100 公斤，我想进行提升背部肌肉耐力的训练，请为我规划今日划船的训练内容，需包含重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_248",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 22 岁，我的颈前杠铃推举最大重量是 70 公斤，准备进行肌肥大训练，请为我安排今天的颈前杠铃推举计划，涵盖重量选择、每组次数、总组数以及组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_249",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 61 岁，我的深蹲 1RM 为 75 公斤，打算通过杠铃深蹲提升下肢肌肉耐力，请帮我规划今天的训练计划，需包含重量选择、每组次数、组数和休息时长。"
+      }
+    },
+    {
+      "id": "em_subj_250",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 26 岁，我的俯身杠铃划船最大重量是 100 公斤，准备进行提升背部肌肉耐力的训练，请为我安排今天的俯身杠铃划船计划，涵盖重量选择、每组次数、总组数以及组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_251",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 65 岁，我的杠铃深蹲 1RM 是 80 公斤，我想进行腿部肌肥大训练，请为我规划今日深蹲的训练内容，需包含重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_252",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 58 岁，我的杠铃深蹲 1RM 为 95 公斤，想通过该动作实现下肢力量提升，请帮我规划今日深蹲的训练内容，包括重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_253",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 37 岁，我的俯身杠铃划船最大单次拉起重量是 95 公斤，想通过今天的训练增强爆发力，请帮我制定一份划船的训练内容，需包含重量选择、每组的次数、总组数和组间休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_254",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 35 岁，我的颈前杠铃推举最大单次重量是 68 公斤，想通过今天的训练增强爆发力，请帮我制定一份推举的训练内容，需包含重量选择、每组的次数、总组数和组间休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_255",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 70 岁，我的颈前杠铃推举最大单次重量为 40 公斤，目标是提升肩部肌肉耐力，请为我制定今天推举的训练内容，写明重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_256",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 70 岁，我的平板杠铃卧推 1RM 是 45 公斤，我想进行提升爆发力的训练，请为我规划今日卧推的训练内容，需包含重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_257",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 61 岁，我的俯身杠铃划船 1RM 为 72 公斤，打算通过俯身杠铃划船提升背部肌肉耐力，请帮我规划今天的训练计划，需包含重量选择、每组次数、组数和休息时长。"
+      }
+    },
+    {
+      "id": "em_subj_258",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 63 岁，我的深蹲最大重量是 70 公斤，准备进行提升下肢肌肉耐力的训练，请为我安排今天的杠铃深蹲计划，涵盖重量选择、每组次数、总组数以及组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_259",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 26 岁，我的俯身杠铃划船最大重量是 100 公斤，准备进行提升爆发力的训练，请为我安排今天的俯身杠铃划船计划，涵盖重量选择、每组次数、总组数以及组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_260",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 68 岁，我的颈前杠铃推举 1RM 为 40 公斤，训练目标是肩部肌肉肥大，请为我设计今天推举的训练方案，涵盖重量选择、单组次数、总组数和组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_261",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 56 岁，我的杠铃深蹲最大单次重量是 100 公斤，目标是提升下肢肌肉耐力，请为我制定今天深蹲的训练内容，写明重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_262",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 31 岁，我的卧推 1RM 为 120 公斤，训练目标是胸部肌肉肥大，请为我设计今天卧推的训练方案，涵盖重量选择、单组次数、总组数和组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_263",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 40 岁，我的颈前杠铃推举最大重量是 65 公斤，想要进行肩部肌肥大训练，请为我制定今天的训练计划，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_264",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 78 岁，我的平板杠铃卧推最大重量是 35 公斤，想要通过训练提升爆发力，请为我制定今天的训练计划，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_265",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 21 岁，我的俯身杠铃划船最大单次重量是 75 公斤，目标是提升背部肌肉耐力，请为我制定今天划船的训练内容，写明重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_266",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 60 岁，我的卧推最大重量是 65 公斤，准备进行肌肥大训练，请为我安排今天的平板杠铃卧推计划，涵盖重量选择、每组次数、总组数以及组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_267",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 31 岁，我的颈前杠铃推举 1RM 为 70 公斤，训练目标是肩部肌肉肥大，请为我设计今天推举的训练方案，涵盖重量选择、单组次数、总组数和组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_268",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 58 岁，我的俯身杠铃划船 1RM 为 85 公斤，想通过该动作实现背部力量提升，请帮我规划今日划船的训练内容，包括重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_269",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 29 岁，我的俯身杠铃划船最大单次重量为 85 公斤，今天的训练目标是提升背部肌肉耐力，请为我设计今天划船的训练方案，写明重量选择、单组次数、组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_270",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 70 岁，我的颈前杠铃推举最大单次重量为 42 公斤，目标是提升爆发力，请为我制定今天推举的训练内容，写明重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_271",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 73 岁，我的俯身杠铃划船最大单次拉起重量是 55 公斤，想通过今天的训练增强爆发力，请帮我制定一份划船的训练内容，需包含重量选择、每组的次数、总组数和组间休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_272",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 72 岁，我的颈前杠铃推举 1RM 为 38 公斤，打算通过颈前杠铃推举提升肩部肌肉耐力，请帮我规划今天的训练计划，需包含重量选择、每组次数、组数和休息时长。"
+      }
+    },
+    {
+      "id": "em_subj_273",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 31 岁，我的杠铃深蹲 1RM 为 120 公斤，训练目标是提升爆发力，请为我设计今天深蹲的训练方案，涵盖重量选择、单组次数、总组数和组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_274",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 62 岁，我的颈前杠铃推举最大单次重量为 50 公斤，今天的训练目标是上肢力量提升，请为我设计今天推举的训练方案，写明重量选择、单组次数、组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_275",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 32 岁，我的俯身杠铃划船 1RM 是 100 公斤，我想进行背部肌肥大训练，请为我规划今日划船的训练内容，需包含重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_276",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 26 岁，我的杠铃深蹲最大重量是 100 公斤，准备进行提升下肢力量水平的训练，请为我安排今天的杠铃深蹲计划，涵盖重量选择、每组次数、总组数以及组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_277",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 20 岁，我的颈前杠铃推举 1RM 为 65 公斤，想通过该动作实现爆发力提升，请帮我规划今日推举的训练内容，包括重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_278",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 26 岁，我的杠铃深蹲最大重量是 100 公斤，准备进行提升下肢肌肉耐力的训练，请为我安排今天的杠铃深蹲计划，涵盖重量选择、每组次数、总组数以及组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_279",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 55 岁，现在准备进行杠铃深蹲训练，最大单次推起重量是 95 公斤，目标是提升下肢肌肉耐力，请为我制定今天深蹲的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_280",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 21 岁，我的平板杠铃卧推最大单次重量是 75 公斤，目标是力量提升，请为我制定今天卧推的训练内容，写明重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_281",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 57 岁，我的平板杠铃卧推最大单次重量是 68 公斤，目标是胸肌肥大，请为我制定今天卧推的训练内容，写明重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_282",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 69 岁，我的卧推 1RM 为 48 公斤，训练目标是提升爆发力，请为我设计今天卧推的训练方案，涵盖重量选择、单组次数、总组数和组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_283",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 29 岁，我的俯身杠铃划船最大单次重量为 85 公斤，今天的训练目标是背部力量提升，请为我设计今天划船的训练方案，写明重量选择、单组次数、组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_284",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 64 岁，我的卧推 1RM 为 58 公斤，训练目标是力量提升，请为我设计今天卧推的训练方案，涵盖重量选择、单组次数、总组数和组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_285",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 21 岁，我的杠铃深蹲最大单次重量是 75 公斤，目标是提升下肢肌肉耐力，请为我制定今天深蹲的训练内容，写明重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_286",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 32 岁，我的俯身杠铃划船 1RM 是 100 公斤，我想进行提升背部力量水平的训练，请为我规划今日划船的训练内容，需包含重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_287",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 62 岁，我的卧推最大重量是 60 公斤，准备进行提升力量水平的训练，请为我安排今天的平板杠铃卧推计划，涵盖重量选择、每组次数、总组数以及组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_288",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 31 岁，我的颈前杠铃推举 1RM 为 65 公斤，训练目标是提升肩部肌肉耐力，请为我设计今天推举的训练方案，涵盖重量选择、单组次数、总组数和组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_289",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 32 岁，我的平板杠铃卧推 1RM 是 110 公斤，我想进行提升力量水平的训练，请为我规划今日卧推的训练内容，需包含重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_290",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 64 岁，我的颈前杠铃推举最大单次重量为 48 公斤，今天的训练目标是爆发力提升，请为我设计今天推举的训练方案，写明重量选择、单组次数、组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_291",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 77 岁，我的平板杠铃卧推最大重量是 35 公斤，想要通过训练提升肌肉耐力，请为我制定今天的训练计划，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_292",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 69 岁，我的俯身杠铃划船 1RM 为 70 公斤，训练目标是提升爆发力，请为我设计今天划船的训练方案，涵盖重量选择、单组次数、总组数和组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_293",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 56 岁，我的俯身杠铃划船最大单次重量是 95 公斤，目标是提升背部肌肉耐力，请为我制定今天划船的训练内容，写明重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_294",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 37 岁，我的杠铃深蹲最大单次推起重量是 95 公斤，想通过今天的训练提升下肢力量水平，请帮我制定一份深蹲的训练内容，需包含重量选择、每组的次数、总组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_295",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 29 岁，我的平板杠铃卧推最大单次重量为 85 公斤，今天的训练目标是爆发力提升，请为我设计今天卧推的训练方案，写明重量选择、单组次数、组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_296",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 55 岁，现在准备进行颈前杠铃推举训练，最大单次重量是 60 公斤，目标是提升肩部肌肉耐力，请为我制定今天推举的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_297",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 70 岁，我的俯身杠铃划船 1RM 是 65 公斤，我想进行提升爆发力的训练，请为我规划今日划船的训练内容，需包含重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_298",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 24 岁，我的杠铃深蹲 1RM 为 105 公斤，打算通过杠铃深蹲实现爆发力提升，请帮我规划今天的训练计划，需包含重量选择、每组次数、组数和休息时长。"
+      }
+    },
+    {
+      "id": "em_subj_299",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 55 岁，现在准备进行平板杠铃卧推训练，最大单次推起重量是 70 公斤，目标是提升爆发力，请为我制定今天卧推的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_300",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 58 岁，我的平板杠铃卧推 1RM 为 65 公斤，想通过该动作实现爆发力提升，请帮我规划今日卧推的训练内容，包括重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_301",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 20 岁，现在准备进行杠铃深蹲训练，最大单次重量是 80 公斤，目标是腿部肌肥大，请为我制定今天深蹲的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_302",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 31 岁，我的俯身杠铃划船 1RM 为 100 公斤，训练目标是提升背部肌肉耐力，请为我设计今天划船的训练方案，涵盖重量选择、单组次数、总组数和组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_303",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 61 岁，我的俯身杠铃划船 1RM 为 80 公斤，打算通过俯身杠铃划船实现爆发力提升，请帮我规划今天的训练计划，需包含重量选择、每组次数、组数和休息时长。"
+      }
+    },
+    {
+      "id": "em_subj_304",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 23 岁，我的俯身杠铃划船 1RM 为 95 公斤，想通过该动作实现爆发力提升，请帮我规划今日划船的训练内容，包括重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_305",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 32 岁，我的杠铃深蹲 1RM 是 110 公斤，我想进行提升下肢力量水平的训练，请为我规划今日深蹲的训练内容，需包含重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_306",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 62 岁，我的俯身杠铃划船最大重量是 75 公斤，准备进行提升爆发力的训练，请为我安排今天的俯身杠铃划船计划，涵盖重量选择、每组次数、总组数以及组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_307",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 61 岁，我的卧推 1RM 为 55 公斤，打算通过平板杠铃卧推实现爆发力提升，请帮我规划今天的训练计划，需包含重量选择、每组次数、组数和休息时长。"
+      }
+    },
+    {
+      "id": "em_subj_308",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 60 岁，我的颈前杠铃推举最大重量是 55 公斤，准备进行提升力量水平的训练，请为我安排今天的颈前杠铃推举计划，涵盖重量选择、每组次数、总组数以及组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_309",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 55 岁，现在准备进行杠铃深蹲训练，最大单次重量是 100 公斤，目标是腿部肌肥大，请为我制定今天深蹲的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_310",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 67 岁，我的颈前杠铃推举 1RM 是 45 公斤，我想进行提升爆发力的训练，请为我规划今日推举的训练内容，需包含重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_311",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 30 岁，我的颈前杠铃推举 1RM 为 75 公斤，打算通过颈前杠铃推举提升肩部肌肉耐力，请帮我规划今天的训练计划，需包含重量选择、每组次数、组数和休息时长。"
+      }
+    },
+    {
+      "id": "em_subj_312",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 75 岁，我的颈前杠铃推举 1RM 为 35 公斤，训练目标是提升肩部肌肉耐力，请为我设计今天推举的训练方案，涵盖重量选择、单组次数、总组数和组间休息。"
+      }
+    },
+    {
+      "id": "em_subj_313",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 23 岁，我的平板杠铃卧推 1RM 为 95 公斤，想通过该动作增加胸肌体积，请帮我规划今日卧推的训练内容，包括重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_314",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 21 岁，我的杠铃深蹲最大单次重量是 75 公斤，目标是腿部肌肥大，请为我制定今天深蹲的训练内容，写明重量区间、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_315",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 58 岁，我的俯身杠铃划船 1RM 为 85 公斤，想通过该动作实现爆发力提升，请帮我规划今日划船的训练内容，包括重量区间、单组次数、总组数和休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_316",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 37 岁，我的杠铃深蹲最大单次推起重量是 95 公斤，想通过今天的训练促进下肢肌肉增长，请帮我制定一份深蹲的训练内容，需包含重量选择、每组的次数、总组数和休息间隔。"
+      }
+    },
+    {
+      "id": "em_subj_317",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 24 岁，我的卧推 1RM 为 105 公斤，打算通过平板杠铃卧推实现爆发力提升，请帮我规划今天的训练计划，需包含重量选择、每组次数、组数和休息时长。"
+      }
+    },
+    {
+      "id": "em_subj_318",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 20 岁，现在准备进行杠铃深蹲训练，最大单次推起重量是 80 公斤，目标是提升爆发力，请为我制定今天深蹲的训练内容，需包含重量选择、单组次数、总组数和组间休息时间。"
+      }
+    },
+    {
+      "id": "em_subj_319",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 73 岁，我的颈前杠铃推举 1RM 为 38 公斤，打算通过颈前杠铃推举实现爆发力提升，请帮我规划今天的训练计划，需包含重量选择、每组次数、组数和休息时长。"
+      }
+    },
+    {
+      "id": "em_subj_320",
+      "task_type": "subjective",
+      "modality": "text",
+      "domain": "plan",
+      "language": "zh",
+      "content": {
+        "text": "我今年 63 岁，我的颈前杠铃推举最大单次重量是 48 公斤，目标是肩部肌肥大，请为我制定今天推举的训练内容，写明重量区间、单组次数、总组数和组间休息时间。"
+      }
+    }
+  ]
+}

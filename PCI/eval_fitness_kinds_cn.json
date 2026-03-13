@@ -1,0 +1,3199 @@
+{
+  "schema_version": "2.0",
+  "dataset_id": "kind-cn",
+  "dataset_version": "2025-09-18",
+  "aim": "eval",
+  "prompt": "你是一个拥有丰富健身经验的健身教练，擅长用中文解答用户在健身训练中遇到任何问题。",
+  "items": [
+    {
+      "id": "em_obje_00",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请判断图中展示的健身器材名称，并在下列选项中选择正确答案。A. 牧师凳B. 史密斯架C. 动感单车D. 蝴蝶机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/preacher-curl-bench/1.png"
+      }
+    },
+    {
+      "id": "em_obje_01",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图里出现的健身器材叫什么？请从下面提供的选项里选出正确的名称。A. 牧师凳B. 卧式曲腿训练器C. 大龙门架D. 罗马椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/preacher-curl-bench/2.png"
+      }
+    },
+    {
+      "id": "em_obje_02",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中所示的健身设备名称是什么？请在以下选项中作出正确选择。A. 牧师凳B. 自由深蹲架C. 坐姿推胸器D. 小龙门架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/preacher-curl-bench/3.png"
+      }
+    },
+    {
+      "id": "em_obje_03",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。A. 牧师凳B. 45度坐式倒蹬机腿部训练器C. 坐姿划船机D. 仰卧板",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/preacher-curl-bench/4.png"
+      }
+    },
+    {
+      "id": "em_obje_04",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。A. 牧师凳B. 哈克深蹲机C. 蝴蝶机D. 椭圆机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/preacher-curl-bench/5.png"
+      }
+    },
+    {
+      "id": "em_obje_05",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这幅图展示的健身器械叫什么名字？请在给出的选项里选择正确答案。A. 牧师凳B. 哑铃凳C. 辅助式引体向上器D. 坐姿推肩器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/preacher-curl-bench/6.png"
+      }
+    },
+    {
+      "id": "em_obje_06",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中出现的健身器材属于哪一种？请从下面的选项中选择正确的名称。A. 牧师凳B. 健身车C. 二头肌弯举训练椅D. 平板卧推架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/preacher-curl-bench/7.png"
+      }
+    },
+    {
+      "id": "em_obje_07",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请根据图片判断该健身器材的名称，并在选项中选出对应答案。A. 牧师凳B. 三头肌弯举训练椅C. 坐式高拉力训练器D. 后蹬腿训练器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/preacher-curl-bench/8.png"
+      }
+    },
+    {
+      "id": "em_obje_08",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中显示的是哪种健身设备？请从下面的选项中选择正确的名称。A. 牧师凳B. 坐式曲腿训练器C. 单双杠引体向上器D. 跑步机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/preacher-curl-bench/9.png"
+      }
+    },
+    {
+      "id": "em_obje_09",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图中的健身器材叫什么，请在所给的选项中找出正确答案。A. 牧师凳B. 蝴蝶机C. 坐姿高位下拉器D. 髋内收/外展器械",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/preacher-curl-bench/10.png"
+      }
+    },
+    {
+      "id": "em_obje_10",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请判断图中展示的健身器材名称，并在下列选项中选择正确答案。 A. 哑铃凳 B. 大龙门架 C. 动感单车 D. 蝴蝶机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/big-gentry/1.png"
+      }
+    },
+    {
+      "id": "em_obje_11",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图里出现的健身器材叫什么？请从下面提供的选项里选出正确的名称。 A. 健身车 B. 大龙门架 C. 卧式曲腿训练器 D. 罗马椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/big-gentry/2.png"
+      }
+    },
+    {
+      "id": "em_obje_12",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中所示的健身设备名称是什么？请在以下选项中作出正确选择。 A. 坐姿推胸器 B. 大龙门架 C. 自由深蹲架 D. 小龙门架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/big-gentry/3.png"
+      }
+    },
+    {
+      "id": "em_obje_13",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 小龙门架 B. 大龙门架 C. 坐姿划船机 D. 仰卧板",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/big-gentry/4.png"
+      }
+    },
+    {
+      "id": "em_obje_14",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 平板卧推架 B. 大龙门架 C. 蝴蝶机 D. 椭圆机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/big-gentry/5.png"
+      }
+    },
+    {
+      "id": "em_obje_15",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这幅图展示的健身器械叫什么名字？请在给出的选项里选择正确答案。 A. 史密斯架 B. 大龙门架 C. 辅助式引体向上器 D. 坐姿推肩器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/big-gentry/6.png"
+      }
+    },
+    {
+      "id": "em_obje_16",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中出现的健身器材属于哪一种？请从下面的选项中选择正确的名称。 A. 罗马椅 B. 大龙门架 C. 二头肌弯举训练椅 D. 健身车",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/big-gentry/7.png"
+      }
+    },
+    {
+      "id": "em_obje_17",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请根据图片判断该健身器材的名称，并在选项中选出对应答案。 A. 三头肌弯举训练椅 B. 大龙门架 C. 45度坐式倒蹬机腿部训练器 D. 小龙门架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/big-gentry/8.png"
+      }
+    },
+    {
+      "id": "em_obje_18",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中显示的是哪种健身设备？请从下面的选项中选择正确的名称。 A. 牧师凳 B. 大龙门架 C. 单双杠引体向上器 D. 坐式曲腿训练器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/big-gentry/9.png"
+      }
+    },
+    {
+      "id": "em_obje_19",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图中的健身器材叫什么，请在所给的选项中找出正确答案。 A. 哈克深蹲机 B. 大龙门架 C. 小龙门架 D. 髋内收/外展器械",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/big-gentry/10.png"
+      }
+    },
+    {
+      "id": "em_obje_20",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请判断图中展示的健身器材名称，并在下列选项中选择正确答案。 A. 哑铃凳 B. 大龙门架 C. 单双杠引体向上器 D. 蝴蝶机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/pull-up/1.png"
+      }
+    },
+    {
+      "id": "em_obje_21",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图里出现的健身器材叫什么？请从下面提供的选项里选出正确的名称。 A. 健身车 B. 史密斯架 C. 单双杠引体向上器 D. 罗马椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/pull-up/2.png"
+      }
+    },
+    {
+      "id": "em_obje_22",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中所示的健身设备名称是什么？请在以下选项中作出正确选择。 A. 坐姿推胸器 B. 自由深蹲架 C. 单双杠引体向上器 D. 小龙门架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/pull-up/3.png"
+      }
+    },
+    {
+      "id": "em_obje_23",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 坐式高拉力训练器 B. 哈克深蹲机 C. 单双杠引体向上器 D. 多功能仰卧板",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/pull-up/4.png"
+      }
+    },
+    {
+      "id": "em_obje_24",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 平板卧推架 B. 椭圆机 C. 单双杠引体向上器 D. 坐姿划船机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/pull-up/5.png"
+      }
+    },
+    {
+      "id": "em_obje_25",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这幅图展示的健身器械叫什么名字？请在给出的选项里选择正确答案。 A. 坐式曲腿训练器 B. 跑步机 C. 单双杠引体向上器 D. 坐姿高位下拉器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/pull-up/6.png"
+      }
+    },
+    {
+      "id": "em_obje_26",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中出现的健身器材属于哪一种？请从下面的选项中选择正确的名称。 A. 45度坐式倒蹬机腿部训练器 B. 蝴蝶机 C. 单双杠引体向上器 D. 后蹬腿训练器 蹬腿机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/pull-up/7.png"
+      }
+    },
+    {
+      "id": "em_obje_27",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请根据图片判断该健身器材的名称，并在选项中选出对应答案。 A. 二头肌弯举训练椅 B. 坐姿推肩器 C. 单双杠引体向上器 D. 牧师凳",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/pull-up/8.png"
+      }
+    },
+    {
+      "id": "em_obje_28",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中显示的是哪种健身设备？请从下面的选项中选择正确的名称。 A. 三头肌弯举训练椅 B. 坐式高拉力训练器 C. 单双杠引体向上器 D. 髋内收/外展器械",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/pull-up/9.png"
+      }
+    },
+    {
+      "id": "em_obje_29",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图中的健身器材叫什么，请在所给的选项中找出正确答案。 A. 卧式曲腿训练器 B. 小龙门架 C. 单双杠引体向上器 D. 蝴蝶机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/pull-up/10.png"
+      }
+    },
+    {
+      "id": "em_obje_30",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请判断图中展示的健身器材名称，并在下列选项中选择正确答案。 A. 健身车 B. 动感单车 C. 牧师凳 D. 坐姿推胸器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Chest-Press-Machine/1.png"
+      }
+    },
+    {
+      "id": "em_obje_31",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图里出现的健身器材叫什么？请从下面提供的选项里选出正确的名称。 A. 蝴蝶机 B. 罗马椅 C. 自由深蹲架 D. 坐姿推胸器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Chest-Press-Machine/2.png"
+      }
+    },
+    {
+      "id": "em_obje_32",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中所示的健身设备名称是什么？请在以下选项中作出正确选择。 A. 哈克深蹲机 B. 小龙门架 C. 哑铃凳 D. 坐姿推胸器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Chest-Press-Machine/3.png"
+      }
+    },
+    {
+      "id": "em_obje_33",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 动感单车 B. 史密斯架 C. 多功能仰卧板 D. 坐姿推胸器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Chest-Press-Machine/4.png"
+      }
+    },
+    {
+      "id": "em_obje_34",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 平板卧推架 B. 牧师凳 C. 二头肌弯举训练椅 D. 坐姿推胸器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Chest-Press-Machine/5.png"
+      }
+    },
+    {
+      "id": "em_obje_35",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这幅图展示的健身器械叫什么名字？请在给出的选项里选择正确答案。 A. 哑铃凳 B. 动感单车 C. 大龙门架 D. 坐姿推胸器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Chest-Press-Machine/6.png"
+      }
+    },
+    {
+      "id": "em_obje_36",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中出现的健身器材属于哪一种？请从下面的选项中选择正确的名称。 A. 罗马椅 B. 蝴蝶机 C. 卧式曲腿训练器 D. 坐姿推胸器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Chest-Press-Machine/7.png"
+      }
+    },
+    {
+      "id": "em_obje_37",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请根据图片判断该健身器材的名称，并在选项中选出对应答案。 A. 小龙门架 B. 动感单车 C. 三头肌弯举训练椅 D. 坐姿推胸器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Chest-Press-Machine/8.png"
+      }
+    },
+    {
+      "id": "em_obje_38",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中显示的是哪种健身设备？请从下面的选项中选择正确的名称。 A. 牧师凳 B. 哈克深蹲机 C. 健身车 D. 坐姿推胸器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Chest-Press-Machine/9.png"
+      }
+    },
+    {
+      "id": "em_obje_39",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图中的健身器材叫什么，请在所给的选项中找出正确答案。 A. 蝴蝶机 B. 二头肌弯举训练椅 C. 自由深蹲架 D. 坐姿推胸器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Chest-Press-Machine/10.png"
+      }
+    },
+    {
+      "id": "em_obje_40",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请判断图中展示的健身器材名称，并在下列选项中选择正确答案。 A. 倒蹬机腿部训练器 B. 大龙门架 C. 哑铃凳 D. 坐姿推肩器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/inverted-leg/1.png"
+      }
+    },
+    {
+      "id": "em_obje_41",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图里出现的健身器材叫什么？请从下面提供的选项里选出正确的名称。 A. 倒蹬机腿部训练器 B. 健身车 C. 蝴蝶机 D. 罗马椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/inverted-leg/2.png"
+      }
+    },
+    {
+      "id": "em_obje_42",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中所示的健身设备名称是什么？请在以下选项中作出正确选择。 A. 倒蹬机腿部训练器 B. 平板卧推架 C. 动感单车 D. 史密斯架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/inverted-leg/3.png"
+      }
+    },
+    {
+      "id": "em_obje_43",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 倒蹬机腿部训练器 B. 三头肌弯举训练椅 C. 坐姿高位下拉器 D. 哈克深蹲机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/inverted-leg/4.png"
+      }
+    },
+    {
+      "id": "em_obje_44",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 倒蹬机腿部训练器 B. 多功能仰卧板 C. 小龙门架 D. 蝴蝶机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/inverted-leg/5.png"
+      }
+    },
+    {
+      "id": "em_obje_45",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这幅图展示的健身器械叫什么名字？请在给出的选项里选择正确答案。 A. 倒蹬机腿部训练器 B. 辅助式引体向上器 C. 椭圆机 D. 坐式曲腿训练器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/inverted-leg/6.png"
+      }
+    },
+    {
+      "id": "em_obje_46",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中出现的健身器材属于哪一种？请从下面的选项中选择正确的名称。 A. 倒蹬机腿部训练器 B. 牧师凳 C. 坐姿划船机 D. 二头肌弯举训练椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/inverted-leg/7.png"
+      }
+    },
+    {
+      "id": "em_obje_47",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请根据图片判断该健身器材的名称，并在选项中选出对应答案。 A. 倒蹬机腿部训练器 B. 卧式曲腿训练器 C. 蝴蝶机 D. 坐姿推胸器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/inverted-leg/8.png"
+      }
+    },
+    {
+      "id": "em_obje_48",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中显示的是哪种健身设备？请从下面的选项中选择正确的名称。 A. 倒蹬机腿部训练器 B. 动感单车 C. 罗马椅 D. 坐式高拉力训练器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/inverted-leg/9.png"
+      }
+    },
+    {
+      "id": "em_obje_49",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图中的健身器材叫什么，请在所给的选项中找出正确答案。 A. 倒蹬机腿部训练器 B. 大龙门架 C. 单双杠引体向上器 D. 哈克深蹲机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/inverted-leg/10.png"
+      }
+    },
+    {
+      "id": "em_obje_50",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请判断图中展示的健身器材名称，并在下列选项中选择正确答案。 A. 动感单车 B. 蹬腿机 C. 小龙门架 D. 罗马椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Leg-press/1.png"
+      }
+    },
+    {
+      "id": "em_obje_51",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图里出现的健身器材叫什么？请从下面提供的选项里选出正确的名称。 A. 哑铃凳 B. 蹬腿机 C. 蝴蝶机 D. 健身车",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Leg-press/2.png"
+      }
+    },
+    {
+      "id": "em_obje_52",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中所示的健身设备名称是什么？请在以下选项中作出正确选择。 A. 椭圆机 B. 蹬腿机 C. 平板卧推架 D. 史密斯架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Leg-press/3.png"
+      }
+    },
+    {
+      "id": "em_obje_53",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 三头肌弯举训练椅 B. 蹬腿机 C. 哈克深蹲机 D. 多功能仰卧板",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Leg-press/4.png"
+      }
+    },
+    {
+      "id": "em_obje_54",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 辅助式引体向上器 B. 蹬腿机 C. 大龙门架 D. 牧师凳",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Leg-press/5.png"
+      }
+    },
+    {
+      "id": "em_obje_55",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这幅图展示的健身器械叫什么名字？请在给出的选项里选择正确答案。 A. 健身车 B. 蹬腿机 C. 动感单车 D. 坐姿推肩器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Leg-press/6.png"
+      }
+    },
+    {
+      "id": "em_obje_56",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中出现的健身器材属于哪一种？请从下面的选项中选择正确的名称。 A. 二头肌弯举训练椅 B. 蹬腿机 C. 小龙门架 D. 蝴蝶机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Leg-press/7.png"
+      }
+    },
+    {
+      "id": "em_obje_57",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请根据图片判断该健身器材的名称，并在选项中选出对应答案。 A. 罗马椅 B. 蹬腿机 C. 平板卧推架 D. 动感单车",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Leg-press/8.png"
+      }
+    },
+    {
+      "id": "em_obje_58",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中显示的是哪种健身设备？请从下面的选项中选择正确的名称。 A. 哈克深蹲机 B. 蹬腿机 C. 史密斯架 D. 坐姿高位下拉器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Leg-press/9.png"
+      }
+    },
+    {
+      "id": "em_obje_59",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图中的健身器材叫什么，请在所给的选项中找出正确答案。 A. 牧师凳 B. 蹬腿机 C. 蝴蝶机 D. 多功能仰卧板",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Leg-press/10.png"
+      }
+    },
+    {
+      "id": "em_obje_60",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请判断图中展示的健身器材名称，并在下列选项中选择正确答案。 A. 动感单车 B. 大龙门架 C. 多功能仰卧板 D. 蝴蝶机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Multi-function-set-up-bench/1.png"
+      }
+    },
+    {
+      "id": "em_obje_61",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图里出现的健身器材叫什么？请从下面提供的选项里选出正确的名称。 A. 平板卧推架 B. 罗马椅 C. 多功能仰卧板 D. 史密斯架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Multi-function-set-up-bench/2.png"
+      }
+    },
+    {
+      "id": "em_obje_62",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中所示的健身设备名称是什么？请在以下选项中作出正确选择。 A. 健身车 B. 蝴蝶机 C. 多功能仰卧板 D. 哈克深蹲机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Multi-function-set-up-bench/3.png"
+      }
+    },
+    {
+      "id": "em_obje_63",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 坐姿推胸器 B. 小龙门架 C. 多功能仰卧板 D. 二头肌弯举训练椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Multi-function-set-up-bench/4.png"
+      }
+    },
+    {
+      "id": "em_obje_64",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 椭圆机 B. 卧式曲腿训练器 C. 多功能仰卧板 D. 辅助式引体向上器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Multi-function-set-up-bench/5.png"
+      }
+    },
+    {
+      "id": "em_obje_65",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这幅图展示的健身器械叫什么名字？请在给出的选项里选择正确答案。 A. 蝴蝶机 B. 哑铃凳 C. 多功能仰卧板 D. 坐式推肩器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Multi-function-set-up-bench/6.png"
+      }
+    },
+    {
+      "id": "em_obje_66",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中出现的健身器材属于哪一种？请从下面的选项中选择正确的名称。 A. 三头肌弯举训练椅 B. 牧师凳 C. 多功能仰卧板 D. 坐姿高位下拉器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Multi-function-set-up-bench/7.png"
+      }
+    },
+    {
+      "id": "em_obje_67",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请根据图片判断该健身器材的名称，并在选项中选出对应答案。 A. 哈克深蹲机 B. 动感单车 C. 多功能仰卧板 D. 平板卧推架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Multi-function-set-up-bench/8.png"
+      }
+    },
+    {
+      "id": "em_obje_68",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中显示的是哪种健身设备？请从下面的选项中选择正确的名称。 A. 自由深蹲架 B. 后蹬腿训练器 蹬腿机 C. 多功能仰卧板 D. 蝴蝶机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Multi-function-set-up-bench/9.png"
+      }
+    },
+    {
+      "id": "em_obje_69",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图中的健身器材叫什么，请在所给的选项中找出正确答案。 A. 坐式曲腿训练器 B. 罗马椅 C. 多功能仰卧板 D. 大龙门架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Multi-function-set-up-bench/10.png"
+      }
+    },
+    {
+      "id": "em_obje_70",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请判断图中展示的健身器材名称，并在下列选项中选择正确答案。 A. 蝴蝶机 B. 大龙门架 C. 动感单车 D. 二头肌弯举训练椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/biceps-curl-bench/1.png"
+      }
+    },
+    {
+      "id": "em_obje_71",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图里出现的健身器材叫什么？请从下面提供的选项里选出正确的名称。 A. 罗马椅 B. 自由深蹲架 C. 坐姿推胸器 D. 二头肌弯举训练椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/biceps-curl-bench/2.png"
+      }
+    },
+    {
+      "id": "em_obje_72",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中所示的健身设备名称是什么？请在以下选项中作出正确选择。 A. 牧师凳 B. 平板卧推架 C. 哈克深蹲机 D. 二头肌弯举训练椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/biceps-curl-bench/3.png"
+      }
+    },
+    {
+      "id": "em_obje_73",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 椭圆机 B. 小龙门架 C. 多功能仰卧板 D. 二头肌弯举训练椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/biceps-curl-bench/4.png"
+      }
+    },
+    {
+      "id": "em_obje_74",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 哑铃凳 B. 坐式高拉力训练器 C. 坐姿推肩器 D. 二头肌弯举训练椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/biceps-curl-bench/5.png"
+      }
+    },
+    {
+      "id": "em_obje_75",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这幅图展示的健身器械叫什么名字？请在给出的选项里选择正确答案。 A. 健身车 B. 蝴蝶机 C. 卧式曲腿训练器 D. 二头肌弯举训练椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/biceps-curl-bench/6.png"
+      }
+    },
+    {
+      "id": "em_obje_76",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中出现的健身器材属于哪一种？请从下面的选项中选择正确的名称。 A. 史密斯架 B. 动感单车 C. 辅助式引体向上器 D. 二头肌弯举训练椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/biceps-curl-bench/7.png"
+      }
+    },
+    {
+      "id": "em_obje_77",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请根据图片判断该健身器材的名称，并在选项中选出对应答案。 A. 三头肌弯举训练椅 B. 牧师凳 C. 45度坐式倒蹬机腿部训练器 D. 二头肌弯举训练椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/biceps-curl-bench/8.png"
+      }
+    },
+    {
+      "id": "em_obje_78",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中显示的是哪种健身设备？请从下面的选项中选择正确的名称。 A. 坐姿划船机 B. 大龙门架 C. 动感单车 D. 二头肌弯举训练椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/biceps-curl-bench/9.png"
+      }
+    },
+    {
+      "id": "em_obje_79",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图中的健身器材叫什么，请在所给的选项中找出正确答案。 A. 哈克深蹲机 B. 后蹬腿训练器 蹬腿机 C. 蝴蝶机 D. 二头肌弯举训练椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/biceps-curl-bench/10.png"
+      }
+    },
+    {
+      "id": "em_obje_80",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请判断图中展示的健身器材名称，并在下列选项中选择正确答案。 A. 辅助式引体向上器 B. 罗马椅 C. 动感单车 D. 平板卧推架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/assisted-pull-up/1.png"
+      }
+    },
+    {
+      "id": "em_obje_81",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图里出现的健身器材叫什么？请从下面提供的选项里选出正确的名称。 A. 辅助式引体向上器 B. 牧师凳 C. 哑铃凳 D. 蝴蝶机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/assisted-pull-up/2.png"
+      }
+    },
+    {
+      "id": "em_obje_82",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中所示的健身设备名称是什么？请在以下选项中作出正确选择。 A. 辅助式引体向上器 B. 椭圆机 C. 小龙门架 D. 坐姿推胸器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/assisted-pull-up/3.png"
+      }
+    },
+    {
+      "id": "em_obje_83",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 辅助式引体向上器 B. 健身车 C. 坐式高拉力训练器 D. 哈克深蹲机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/assisted-pull-up/4.png"
+      }
+    },
+    {
+      "id": "em_obje_84",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 辅助式引体向上器 B. 卧式曲腿训练器 C. 大龙门架 D. 动感单车",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/assisted-pull-up/5.png"
+      }
+    },
+    {
+      "id": "em_obje_85",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这幅图展示的健身器械叫什么名字？请在给出的选项里选择正确答案。 A. 辅助式引体向上器 B. 三头肌弯举训练椅 C. 自由深蹲架 D. 蝴蝶机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/assisted-pull-up/6.png"
+      }
+    },
+    {
+      "id": "em_obje_86",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中出现的健身器材属于哪一种？请从下面的选项中选择正确的名称。 A. 辅助式引体向上器 B. 二头肌弯举训练椅 C. 罗马椅 D. 45度坐式倒蹬机腿部训练器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/assisted-pull-up/7.png"
+      }
+    },
+    {
+      "id": "em_obje_87",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请根据图片判断该健身器材的名称，并在选项中选出对应答案。 A. 辅助式引体向上器 B. 哑铃凳 C. 坐姿划船机 D. 蝴蝶机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/assisted-pull-up/8.png"
+      }
+    },
+    {
+      "id": "em_obje_88",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中显示的是哪种健身设备？请从下面的选项中选择正确的名称。 A. 辅助式引体向上器 B. 史密斯架 C. 动感单车 D. 坐姿推肩器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/assisted-pull-up/9.png"
+      }
+    },
+    {
+      "id": "em_obje_89",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图中的健身器材叫什么，请在所给的选项中找出正确答案。 A. 辅助式引体向上器 B. 大龙门架 C. 多功能仰卧板 D. 髋内收/外展器械",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/assisted-pull-up/10.png"
+      }
+    },
+    {
+      "id": "em_obje_90",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请判断图中展示的健身器材名称，并在下列选项中选择正确答案。 A. 哑铃凳 B. 哈克深蹲机 C. 动感单车 D. 蝴蝶机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/hack-squat-machine/1.png"
+      }
+    },
+    {
+      "id": "em_obje_91",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图里出现的健身器材叫什么？请从下面提供的选项里选出正确的名称。 A. 平板卧推架 B. 哈克深蹲机 C. 罗马椅 D. 坐姿推胸器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/hack-squat-machine/2.png"
+      }
+    },
+    {
+      "id": "em_obje_92",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中所示的健身设备名称是什么？请在以下选项中作出正确选择。 A. 健身车 B. 哈克深蹲机 C. 椭圆机 D. 牧师凳",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/hack-squat-machine/3.png"
+      }
+    },
+    {
+      "id": "em_obje_93",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 多功能仰卧板 B. 哈克深蹲机 C. 自由深蹲架 D. 辅助式引体向上器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/hack-squat-machine/4.png"
+      }
+    },
+    {
+      "id": "em_obje_94",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 三头肌弯举训练椅 B. 哈克深蹲机 C. 坐姿划船机 D. 史密斯架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/hack-squat-machine/5.png"
+      }
+    },
+    {
+      "id": "em_obje_95",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这幅图展示的健身器械叫什么名字？请在给出的选项里选择正确答案。 A. 牧师凳 B. 哈克深蹲机 C. 动感单车 D. 小龙门架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/hack-squat-machine/6.png"
+      }
+    },
+    {
+      "id": "em_obje_96",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中出现的健身器材属于哪一种？请从下面的选项中选择正确的名称。 A. 坐式曲腿训练器 B. 哈克深蹲机 C. 哑铃凳 D. 45度坐式倒蹬机腿部训练器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/hack-squat-machine/7.png"
+      }
+    },
+    {
+      "id": "em_obje_97",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请根据图片判断该健身器材的名称，并在选项中选出对应答案。 A. 蝴蝶机 B. 哈克深蹲机 C. 大龙门架 D. 坐姿推肩器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/hack-squat-machine/8.png"
+      }
+    },
+    {
+      "id": "em_obje_98",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中显示的是哪种健身设备？请从下面的选项中选择正确的名称。 A. 罗马椅 B. 哈克深蹲机 C. 辅助式引体向上器 D. 二头肌弯举训练椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/hack-squat-machine/9.png"
+      }
+    },
+    {
+      "id": "em_obje_99",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图中的健身器材叫什么，请在所给的选项中找出正确答案。 A. 卧式曲腿训练器 B. 哈克深蹲机 C. 多功能仰卧板 D. 蝴蝶机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/hack-squat-machine/10.png"
+      }
+    },
+    {
+      "id": "em_obje_100",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请判断图中展示的健身器材名称，并在下列选项中选择正确答案。 A. 健身车 B. 牧师凳 C. 蝴蝶机 D. 哑铃凳",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Butterfly-Machine/1.png"
+      }
+    },
+    {
+      "id": "em_obje_101",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图里出现的健身器材叫什么？请从下面提供的选项里选出正确的名称。 A. 动感单车 B. 罗马椅 C. 蝴蝶机 D. 自由深蹲架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Butterfly-Machine/2.png"
+      }
+    },
+    {
+      "id": "em_obje_102",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中所示的健身设备名称是什么？请在以下选项中作出正确选择。 A. 平板卧推架 B. 小龙门架 C. 蝴蝶机 D. 三头肌弯举训练椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Butterfly-Machine/3.png"
+      }
+    },
+    {
+      "id": "em_obje_103",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 坐姿高位下拉器 B. 大龙门架 C. 蝴蝶机 D. 哈克深蹲机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Butterfly-Machine/4.png"
+      }
+    },
+    {
+      "id": "em_obje_104",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 辅助式引体向上器 B. 椭圆机 C. 蝴蝶机 D. 坐姿推肩器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Butterfly-Machine/5.png"
+      }
+    },
+    {
+      "id": "em_obje_105",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这幅图展示的健身器械叫什么名字？请在给出的选项里选择正确答案。 A. 史密斯架 B. 哑铃凳 C. 蝴蝶机 D. 卧式曲腿训练器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Butterfly-Machine/6.png"
+      }
+    },
+    {
+      "id": "em_obje_106",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中出现的健身器材属于哪一种？请从下面的选项中选择正确的名称。 A. 坐姿推胸器 B. 健身车 C. 蝴蝶机 D. 二头肌弯举训练椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Butterfly-Machine/7.png"
+      }
+    },
+    {
+      "id": "em_obje_107",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请根据图片判断该健身器材的名称，并在选项中选出对应答案。 A. 后蹬腿训练器 蹬腿机 B. 罗马椅 C. 蝴蝶机 D. 大龙门架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Butterfly-Machine/8.png"
+      }
+    },
+    {
+      "id": "em_obje_108",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中显示的是哪种健身设备？请从下面的选项中选择正确的名称。 A. 多功能仰卧板 B. 平板卧推架 C. 蝴蝶机 D. 坐姿划船机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Butterfly-Machine/9.png"
+      }
+    },
+    {
+      "id": "em_obje_109",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图中的健身器材叫什么，请在所给的选项中找出正确答案。 A. 三头肌弯举训练椅 B. 辅助式引体向上器 C. 蝴蝶机 D. 牧师凳",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Butterfly-Machine/10.png"
+      }
+    },
+    {
+      "id": "em_obje_110",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请判断图中展示的健身器材名称，并在下列选项中选择正确答案。 A. 平板卧推架 B. 动感单车 C. 牧师凳 D. 划船机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Rowing-Machine/1.png"
+      }
+    },
+    {
+      "id": "em_obje_111",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图里出现的健身器材叫什么？请从下面提供的选项里选出正确的名称。 A. 蝴蝶机 B. 哑铃凳 C. 大龙门架 D. 划船机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Rowing-Machine/2.png"
+      }
+    },
+    {
+      "id": "em_obje_112",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中所示的健身设备名称是什么？请在以下选项中作出正确选择。 A. 健身车 B. 罗马椅 C. 坐姿推胸器 D. 划船机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Rowing-Machine/3.png"
+      }
+    },
+    {
+      "id": "em_obje_113",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 史密斯架 B. 椭圆机 C. 三头肌弯举训练椅 D. 划船机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Rowing-Machine/4.png"
+      }
+    },
+    {
+      "id": "em_obje_114",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 坐姿高位下拉器 B. 动感单车 C. 小龙门架 D. 划船机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Rowing-Machine/5.png"
+      }
+    },
+    {
+      "id": "em_obje_115",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这幅图展示的健身器械叫什么名字？请在给出的选项里选择正确答案。 A. 哈克深蹲机 B. 牧师凳 C. 辅助式引体向上器 D. 划船机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Rowing-Machine/6.png"
+      }
+    },
+    {
+      "id": "em_obje_116",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中出现的健身器材属于哪一种？请从下面的选项中选择正确的名称。 A. 二头肌弯举训练椅 B. 哑铃凳 C. 平板卧推架 D. 划船机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Rowing-Machine/7.png"
+      }
+    },
+    {
+      "id": "em_obje_117",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请根据图片判断该健身器材的名称，并在选项中选出对应答案。 A. 多功能仰卧板 B. 健身车 C. 坐式曲腿训练器 D. 划船机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Rowing-Machine/8.png"
+      }
+    },
+    {
+      "id": "em_obje_118",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中显示的是哪种健身设备？请从下面的选项中选择正确的名称。 A. 大龙门架 B. 辅助式引体向上器 C. 自由深蹲架 D. 划船机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Rowing-Machine/9.png"
+      }
+    },
+    {
+      "id": "em_obje_119",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图中的健身器材叫什么，请在所给的选项中找出正确答案。 A. 三头肌弯举训练椅 B. 蝴蝶机 C. 罗马椅 D. 划船机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Rowing-Machine/10.png"
+      }
+    },
+    {
+      "id": "em_obje_120",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请判断图中展示的健身器材名称，并在下列选项中选择正确答案。 A. 健身车 B. 大龙门架 C. 哑铃凳 D. 蝴蝶机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Exercise-Bike/1.png"
+      }
+    },
+    {
+      "id": "em_obje_121",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图里出现的健身器材叫什么？请从下面提供的选项里选出正确的名称。 A. 健身车 B. 罗马椅 C. 小龙门架 D. 坐姿推胸器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Exercise-Bike/2.png"
+      }
+    },
+    {
+      "id": "em_obje_122",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中所示的健身设备名称是什么？请在以下选项中作出正确选择。 A. 健身车 B. 哈克深蹲机 C. 蝴蝶机 D. 动感单车",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Exercise-Bike/3.png"
+      }
+    },
+    {
+      "id": "em_obje_123",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 健身车 B. 辅助式引体向上器 C. 牧师凳 D. 自由深蹲架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Exercise-Bike/4.png"
+      }
+    },
+    {
+      "id": "em_obje_124",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 健身车 B. 三头肌弯举训练椅 C. 平板卧推架 D. 坐式高拉力训练器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Exercise-Bike/5.png"
+      }
+    },
+    {
+      "id": "em_obje_125",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这幅图展示的健身器械叫什么名字？请在给出的选项里选择正确答案。 A. 健身车 B. 动感单车 C. 椭圆机 D. 二头肌弯举训练椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Exercise-Bike/6.png"
+      }
+    },
+    {
+      "id": "em_obje_126",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中出现的健身器材属于哪一种？请从下面的选项中选择正确的名称。 A. 健身车 B. 哑铃凳 C. 坐姿推肩器 D. 罗马椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Exercise-Bike/7.png"
+      }
+    },
+    {
+      "id": "em_obje_127",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请根据图片判断该健身器材的名称，并在选项中选出对应答案。 A. 健身车 B. 平板卧推架 C. 蝴蝶机 D. 大龙门架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Exercise-Bike/8.png"
+      }
+    },
+    {
+      "id": "em_obje_128",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中显示的是哪种健身设备？请从下面的选项中选择正确的名称。 A. 健身车 B. 卧式曲腿训练器 C. 小龙门架 D. 多功能仰卧板",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Exercise-Bike/9.png"
+      }
+    },
+    {
+      "id": "em_obje_129",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图中的健身器材叫什么，请在所给的选项中找出正确答案。 A. 健身车 B. 坐姿推胸器 C. 辅助式引体向上器 D. 史密斯架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Exercise-Bike/10.png"
+      }
+    },
+    {
+      "id": "em_obje_130",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请判断图中展示的健身器材名称，并在下列选项中选择正确答案。 A. 罗马椅 B. 髋内收/外展器械 C. 动感单车 D. 牧师凳",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/hip-adductor-machine/1.png"
+      }
+    },
+    {
+      "id": "em_obje_131",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图里出现的健身器材叫什么？请从下面提供的选项里选出正确的名称。 A. 平板卧推架 B. 髋内收/外展器械 C. 史密斯架 D. 坐姿推肩器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/hip-adductor-machine/2.png"
+      }
+    },
+    {
+      "id": "em_obje_132",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中所示的健身设备名称是什么？请在以下选项中作出正确选择。 A. 三头肌弯举训练椅 B. 髋内收/外展器械 C. 蝴蝶机 D. 小龙门架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/hip-adductor-machine/3.png"
+      }
+    },
+    {
+      "id": "em_obje_133",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 动感单车 B. 髋内收/外展器械 C. 自由深蹲架 D. 哈克深蹲机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/hip-adductor-machine/4.png"
+      }
+    },
+    {
+      "id": "em_obje_134",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 哑铃凳 B. 髋内收/外展器械 C. 坐式高拉力训练器 D. 卧式曲腿训练器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/hip-adductor-machine/5.png"
+      }
+    },
+    {
+      "id": "em_obje_135",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这幅图展示的健身器械叫什么名字？请在给出的选项里选择正确答案。 A. 坐姿推胸器 B. 髋内收/外展器械 C. 椭圆机 D. 二头肌弯举训练椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/hip-adductor-machine/6.png"
+      }
+    },
+    {
+      "id": "em_obje_136",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中出现的健身器材属于哪一种？请从下面的选项中选择正确的名称。 A. 辅助式引体向上器 B. 髋内收/外展器械 C. 动感单车 D. 蝴蝶机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/hip-adductor-machine/7.png"
+      }
+    },
+    {
+      "id": "em_obje_137",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请根据图片判断该健身器材的名称，并在选项中选出对应答案。 A. 多功能仰卧板 B. 髋内收/外展器械 C. 牧师凳 D. 坐姿划船机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/hip-adductor-machine/8.png"
+      }
+    },
+    {
+      "id": "em_obje_138",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中显示的是哪种健身设备？请从下面的选项中选择正确的名称。 A. 健身车 B. 髋内收/外展器械 C. 哈克深蹲机 D. 平板卧推架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/hip-adductor-machine/9.png"
+      }
+    },
+    {
+      "id": "em_obje_139",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图中的健身器材叫什么，请在所给的选项中找出正确答案。 A. 史密斯架 B. 髋内收/外展器械 C. 三头肌弯举训练椅 D. 蝴蝶机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/hip-adductor-machine/10.png"
+      }
+    },
+    {
+      "id": "em_obje_140",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请判断图中展示的健身器材名称，并在下列选项中选择正确答案。 A. 动感单车 B. 牧师凳 C. 罗马椅 D. 小龙门架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/roman-chair/1.png"
+      }
+    },
+    {
+      "id": "em_obje_141",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图里出现的健身器材叫什么？请从下面提供的选项里选出正确的名称。 A. 哑铃凳 B. 椭圆机 C. 罗马椅 D. 平板卧推架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/roman-chair/2.png"
+      }
+    },
+    {
+      "id": "em_obje_142",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中所示的健身设备名称是什么？请在以下选项中作出正确选择。 A. 坐姿推肩器 B. 健身车 C. 罗马椅 D. 自由深蹲架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/roman-chair/3.png"
+      }
+    },
+    {
+      "id": "em_obje_143",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 辅助式引体向上器 B. 蝴蝶机 C. 罗马椅 D. 动感单车",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/roman-chair/4.png"
+      }
+    },
+    {
+      "id": "em_obje_144",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 二头肌弯举训练椅 B. 三头肌弯举训练椅 C. 罗马椅 D. 史密斯架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/roman-chair/5.png"
+      }
+    },
+    {
+      "id": "em_obje_145",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这幅图展示的健身器械叫什么名字？请在给出的选项里选择正确答案。 A. 卧式曲腿训练器 B. 多功能仰卧板 C. 罗马椅 D. 哈克深蹲机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/roman-chair/6.png"
+      }
+    },
+    {
+      "id": "em_obje_146",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中出现的健身器材属于哪一种？请从下面的选项中选择正确的名称。 A. 蝴蝶机 B. 大龙门架 C. 罗马椅 D. 坐姿高位下拉器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/roman-chair/7.png"
+      }
+    },
+    {
+      "id": "em_obje_147",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请根据图片判断该健身器材的名称，并在选项中选出对应答案。 A. 健身车 B. 平板卧推架 C. 罗马椅 D. 辅助式引体向上器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/roman-chair/8.png"
+      }
+    },
+    {
+      "id": "em_obje_148",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中显示的是哪种健身设备？请从下面的选项中选择正确的名称。 A. 三头肌弯举训练椅 B. 动感单车 C. 罗马椅 D. 坐式高拉力训练器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/roman-chair/9.png"
+      }
+    },
+    {
+      "id": "em_obje_149",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图中的健身器材叫什么，请在所给的选项中找出正确答案。 A. 牧师凳 B. 大龙门架 C. 罗马椅 D. 蝴蝶机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/roman-chair/10.png"
+      }
+    },
+    {
+      "id": "em_obje_150",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请判断图中展示的健身器材名称，并在下列选项中选择正确答案。 A. 动感单车 B. 大龙门架 C. 哑铃凳 D. 坐姿划船机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Row-Machine/1.png"
+      }
+    },
+    {
+      "id": "em_obje_151",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图里出现的健身器材叫什么？请从下面提供的选项里选出正确的名称。 A. 平板卧推架 B. 椭圆机 C. 三头肌弯举训练椅 D. 坐姿划船机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Row-Machine/2.png"
+      }
+    },
+    {
+      "id": "em_obje_152",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中所示的健身设备名称是什么？请在以下选项中作出正确选择。 A. 健身车 B. 小龙门架 C. 坐姿推肩器 D. 坐姿划船机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Row-Machine/3.png"
+      }
+    },
+    {
+      "id": "em_obje_153",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 蝴蝶机 B. 自由深蹲架 C. 哈克深蹲机 D. 坐姿划船机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Row-Machine/4.png"
+      }
+    },
+    {
+      "id": "em_obje_154",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 哑铃凳 B. 卧式曲腿训练器 C. 牧师凳 D. 坐姿划船机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Row-Machine/5.png"
+      }
+    },
+    {
+      "id": "em_obje_155",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这幅图展示的健身器械叫什么名字？请在给出的选项里选择正确答案。 A. 动感单车 B. 史密斯架 C. 二头肌弯举训练椅 D. 坐姿划船机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Row-Machine/6.png"
+      }
+    },
+    {
+      "id": "em_obje_156",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中出现的健身器材属于哪一种？请从下面的选项中选择正确的名称。 A. 辅助式引体向上器 B. 坐式高拉力训练器 C. 多功能仰卧板 D. 坐姿划船机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Row-Machine/7.png"
+      }
+    },
+    {
+      "id": "em_obje_157",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请根据图片判断该健身器材的名称，并在选项中选出对应答案。 A. 蝴蝶机 B. 大龙门架 C. 健身车 D. 坐姿划船机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Row-Machine/8.png"
+      }
+    },
+    {
+      "id": "em_obje_158",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中显示的是哪种健身设备？请从下面的选项中选择正确的名称。 A. 三头肌弯举训练椅 B. 椭圆机 C. 动感单车 D. 坐姿划船机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Row-Machine/9.png"
+      }
+    },
+    {
+      "id": "em_obje_159",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图中的健身器材叫什么，请在所给的选项中找出正确答案。 A. 坐姿推胸器 B. 哈克深蹲机 C. 自由深蹲架 D. 坐姿划船机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Row-Machine/10.png"
+      }
+    },
+    {
+      "id": "em_obje_160",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请判断图中展示的健身器材名称，并在下列选项中选择正确答案。 A. 跑步机 B. 哑铃凳 C. 蝴蝶机 D. 健身车",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/run-machine/1.jpg"
+      }
+    },
+    {
+      "id": "em_obje_161",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图里出现的健身器材叫什么？请从下面提供的选项里选出正确的名称。 A. 跑步机 B. 牧师凳 C. 自由深蹲架 D. 罗马椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/run-machine/2.jpg"
+      }
+    },
+    {
+      "id": "em_obje_162",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中所示的健身设备名称是什么？请在以下选项中作出正确选择。 A. 跑步机 B. 动感单车 C. 坐姿推肩器 D. 小龙门架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/run-machine/3.jpg"
+      }
+    },
+    {
+      "id": "em_obje_163",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 跑步机 B. 大龙门架 C. 三头肌弯举训练椅 D. 哈克深蹲机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/run-machine/4.jpg"
+      }
+    },
+    {
+      "id": "em_obje_164",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 跑步机 B. 多功能仰卧板 C. 椭圆机 D. 蝴蝶机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/run-machine/5.jpg"
+      }
+    },
+    {
+      "id": "em_obje_165",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这幅图展示的健身器械叫什么名字？请在给出的选项里选择正确答案。 A. 跑步机 B. 坐式高拉力训练器 C. 平板卧推架 D. 罗马椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/run-machine/6.jpg"
+      }
+    },
+    {
+      "id": "em_obje_166",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中出现的健身器材属于哪一种？请从下面的选项中选择正确的名称。 A. 跑步机 B. 动感单车 C. 卧式曲腿训练器 D. 二头肌弯举训练椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/run-machine/7.jpg"
+      }
+    },
+    {
+      "id": "em_obje_167",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请根据图片判断该健身器材的名称，并在选项中选出对应答案。 A. 跑步机 B. 史密斯架 C. 大龙门架 D. 坐姿推胸器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/run-machine/8.jpg"
+      }
+    },
+    {
+      "id": "em_obje_168",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中显示的是哪种健身设备？请从下面的选项中选择正确的名称。 A. 跑步机 B. 小龙门架 C. 蝴蝶机 D. 辅助式引体向上器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/run-machine/9.jpg"
+      }
+    },
+    {
+      "id": "em_obje_169",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图中的健身器材叫什么，请在所给的选项中找出正确答案。 A. 跑步机 B. 健身车 C. 哈克深蹲机 D. 三头肌弯举训练椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/run-machine/10.png"
+      }
+    },
+    {
+      "id": "em_obje_170",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请判断图中展示的健身器材名称，并在下列选项中选择正确答案。 A. 动感单车 B. 平板卧推架 C. 哑铃凳 D. 罗马椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Flat-Bench-Press-Rack/1.png"
+      }
+    },
+    {
+      "id": "em_obje_171",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图里出现的健身器材叫什么？请从下面提供的选项里选出正确的名称。 A. 牧师凳 B. 平板卧推架 C. 三头肌弯举训练椅 D. 小龙门架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Flat-Bench-Press-Rack/2.png"
+      }
+    },
+    {
+      "id": "em_obje_172",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中所示的健身设备名称是什么？请在以下选项中作出正确选择。 A. 哈克深蹲机 B. 平板卧推架 C. 大龙门架 D. 辅助式引体向上器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Flat-Bench-Press-Rack/3.png"
+      }
+    },
+    {
+      "id": "em_obje_173",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 蝴蝶机 B. 平板卧推架 C. 椭圆机 D. 健身车",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Flat-Bench-Press-Rack/4.png"
+      }
+    },
+    {
+      "id": "em_obje_174",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 哑铃凳 B. 平板卧推架 C. 自由深蹲架 D. 动感单车",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Flat-Bench-Press-Rack/5.png"
+      }
+    },
+    {
+      "id": "em_obje_175",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这幅图展示的健身器械叫什么名字？请在给出的选项里选择正确答案。 A. 坐姿高位下拉器 B. 平板卧推架 C. 蝴蝶机 D. 三头肌弯举训练椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Flat-Bench-Press-Rack/6.png"
+      }
+    },
+    {
+      "id": "em_obje_176",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中出现的健身器材属于哪一种？请从下面的选项中选择正确的名称。 A. 多功能仰卧板 B. 平板卧推架 C. 小龙门架 D. 罗马椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Flat-Bench-Press-Rack/7.png"
+      }
+    },
+    {
+      "id": "em_obje_177",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请根据图片判断该健身器材的名称，并在选项中选出对应答案。 A. 动感单车 B. 平板卧推架 C. 辅助式引体向上器 D. 蝴蝶机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Flat-Bench-Press-Rack/8.png"
+      }
+    },
+    {
+      "id": "em_obje_178",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中显示的是哪种健身设备？请从下面的选项中选择正确的名称。 A. 史密斯架 B. 平板卧推架 C. 哑铃凳 D. 健身车",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Flat-Bench-Press-Rack/9.png"
+      }
+    },
+    {
+      "id": "em_obje_179",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图中的健身器材叫什么，请在所给的选项中找出正确答案。 A. 二头肌弯举训练椅 B. 平板卧推架 C. 坐姿推胸器 D. 大龙门架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Flat-Bench-Press-Rack/10.png"
+      }
+    },
+    {
+      "id": "em_obje_180",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请判断图中展示的健身器材名称，并在下列选项中选择正确答案。 A. 动感单车 B. 自由深蹲架 C. 三头肌弯举训练椅 D. 哈克深蹲机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Triceps-Extension-Bench/1.png"
+      }
+    },
+    {
+      "id": "em_obje_181",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图里出现的健身器材叫什么？请从下面提供的选项里选出正确的名称。 A. 罗马椅 B. 牧师凳 C. 三头肌弯举训练椅 D. 椭圆机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Triceps-Extension-Bench/2.png"
+      }
+    },
+    {
+      "id": "em_obje_182",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中所示的健身设备名称是什么？请在以下选项中作出正确选择。 A. 多功能仰卧板 B. 大龙门架 C. 三头肌弯举训练椅 D. 坐姿推肩器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Triceps-Extension-Bench/3.png"
+      }
+    },
+    {
+      "id": "em_obje_183",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 哑铃凳 B. 动感单车 C. 三头肌弯举训练椅 D. 小龙门架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Triceps-Extension-Bench/4.png"
+      }
+    },
+    {
+      "id": "em_obje_184",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 史密斯架 B. 坐姿高位下拉器 C. 三头肌弯举训练椅 D. 二头肌弯举训练椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Triceps-Extension-Bench/5.png"
+      }
+    },
+    {
+      "id": "em_obje_185",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这幅图展示的健身器械叫什么名字？请在给出的选项里选择正确答案。 A. 健身车 B. 蝴蝶机 C. 三头肌弯举训练椅 D. 动感单车",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Triceps-Extension-Bench/6.png"
+      }
+    },
+    {
+      "id": "em_obje_186",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中出现的健身器材属于哪一种？请从下面的选项中选择正确的名称。 A. 辅助式引体向上器 B. 哈克深蹲机 C. 三头肌弯举训练椅 D. 坐式曲腿训练器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Triceps-Extension-Bench/7.png"
+      }
+    },
+    {
+      "id": "em_obje_187",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请根据图片判断该健身器材的名称，并在选项中选出对应答案。 A. 卧式曲腿训练器 B. 平板卧推架 C. 三头肌弯举训练椅 D. 大龙门架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Triceps-Extension-Bench/8.png"
+      }
+    },
+    {
+      "id": "em_obje_188",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中显示的是哪种健身设备？请从下面的选项中选择正确的名称。 A. 动感单车 B. 哑铃凳 C. 三头肌弯举训练椅 D. 自由深蹲架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Triceps-Extension-Bench/9.png"
+      }
+    },
+    {
+      "id": "em_obje_189",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图中的健身器材叫什么，请在所给的选项中找出正确答案。 A. 坐姿推胸器 B. 罗马椅 C. 三头肌弯举训练椅 D. 蝴蝶机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Triceps-Extension-Bench/10.png"
+      }
+    },
+    {
+      "id": "em_obje_190",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请判断图中展示的健身器材名称，并在下列选项中选择正确答案。 A. 健身车 B. 动感单车 C. 蝴蝶机 D. 史密斯架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Smith-Machine/1.png"
+      }
+    },
+    {
+      "id": "em_obje_191",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图里出现的健身器材叫什么？请从下面提供的选项里选出正确的名称。 A. 哑铃凳 B. 小龙门架 C. 平板卧推架 D. 史密斯架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Smith-Machine/2.png"
+      }
+    },
+    {
+      "id": "em_obje_192",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中所示的健身设备名称是什么？请在以下选项中作出正确选择。 A. 三头肌弯举训练椅 B. 罗马椅 C. 动感单车 D. 史密斯架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Smith-Machine/3.png"
+      }
+    },
+    {
+      "id": "em_obje_193",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 蝴蝶机 B. 辅助式引体向上器 C. 多功能仰卧板 D. 史密斯架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Smith-Machine/4.png"
+      }
+    },
+    {
+      "id": "em_obje_194",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 平板卧推架 B. 健身车 C. 蝴蝶机 D. 史密斯架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Smith-Machine/5.png"
+      }
+    },
+    {
+      "id": "em_obje_195",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这幅图展示的健身器械叫什么名字？请在给出的选项里选择正确答案。 A. 大龙门架 B. 哈克深蹲机 C. 动感单车 D. 史密斯架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Smith-Machine/6.png"
+      }
+    },
+    {
+      "id": "em_obje_196",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中出现的健身器材属于哪一种？请从下面的选项中选择正确的名称。 A. 哑铃凳 B. 卧式曲腿训练器 C. 罗马椅 D. 史密斯架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Smith-Machine/7.png"
+      }
+    },
+    {
+      "id": "em_obje_197",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请根据图片判断该健身器材的名称，并在选项中选出对应答案。 A. 二头肌弯举训练椅 B. 蝴蝶机 C. 大龙门架 D. 史密斯架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Smith-Machine/8.png"
+      }
+    },
+    {
+      "id": "em_obje_198",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中显示的是哪种健身设备？请从下面的选项中选择正确的名称。 A. 小龙门架 B. 动感单车 C. 坐姿推胸器 D. 史密斯架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Smith-Machine/9.png"
+      }
+    },
+    {
+      "id": "em_obje_199",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图中的健身器材叫什么，请在所给的选项中找出正确答案。 A. 多功能仰卧板 B. 蝴蝶机 C. 健身车 D. 史密斯架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Smith-Machine/10.png"
+      }
+    },
+    {
+      "id": "em_obje_200",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请判断图中展示的健身器材名称，并在下列选项中选择正确答案。 A. 椭圆机 B. 动感单车 C. 罗马椅 D. 哈克深蹲机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Cross-Trainer/1.jpg"
+      }
+    },
+    {
+      "id": "em_obje_201",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图里出现的健身器材叫什么？请从下面提供的选项里选出正确的名称。 A. 椭圆机 B. 自由深蹲架 C. 哑铃凳 D. 牧师凳",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Cross-Trainer/2.jpg"
+      }
+    },
+    {
+      "id": "em_obje_202",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中所示的健身设备名称是什么？请在以下选项中作出正确选择。 A. 椭圆机 B. 蝴蝶机 C. 坐姿推肩器 D. 大龙门架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Cross-Trainer/3.jpg"
+      }
+    },
+    {
+      "id": "em_obje_203",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 椭圆机 B. 动感单车 C. 小龙门架 D. 坐式高拉力训练器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Cross-Trainer/4.jpg"
+      }
+    },
+    {
+      "id": "em_obje_204",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 椭圆机 B. 卧式曲腿训练器 C. 健身车 D. 蝴蝶机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Cross-Trainer/5.jpg"
+      }
+    },
+    {
+      "id": "em_obje_205",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这幅图展示的健身器械叫什么名字？请在给出的选项里选择正确答案。 A. 椭圆机 B. 哈克深蹲机 C. 二头肌弯举训练椅 D. 平板卧推架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Cross-Trainer/6.jpg"
+      }
+    },
+    {
+      "id": "em_obje_206",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中出现的健身器材属于哪一种？请从下面的选项中选择正确的名称。 A. 椭圆机 B. 坐姿高位下拉器 C. 动感单车 D. 罗马椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Cross-Trainer/7.jpg"
+      }
+    },
+    {
+      "id": "em_obje_207",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请根据图片判断该健身器材的名称，并在选项中选出对应答案。 A. 椭圆机 B. 大龙门架 C. 牧师凳 D. 三头肌弯举训练椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Cross-Trainer/8.jpg"
+      }
+    },
+    {
+      "id": "em_obje_208",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中显示的是哪种健身设备？请从下面的选项中选择正确的名称。 A. 椭圆机 B. 辅助式引体向上器 C. 多功能仰卧板 D. 动感单车",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Cross-Trainer/9.jpg"
+      }
+    },
+    {
+      "id": "em_obje_209",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图中的健身器材叫什么，请在所给的选项中找出正确答案。 A. 椭圆机 B. 史密斯架 C. 蝴蝶机 D. 自由深蹲架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Cross-Trainer/10.jpg"
+      }
+    },
+    {
+      "id": "em_obje_210",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请判断图中展示的健身器材名称，并在下列选项中选择正确答案。 A. 动感单车 B. 卧式曲腿训练器 C. 牧师凳 D. 罗马椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Lying-Leg-Curl-Machine/1.png"
+      }
+    },
+    {
+      "id": "em_obje_211",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图里出现的健身器材叫什么？请从下面提供的选项里选出正确的名称。 A. 小龙门架 B. 卧式曲腿训练器 C. 平板卧推架 D. 哑铃凳",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Lying-Leg-Curl-Machine/2.png"
+      }
+    },
+    {
+      "id": "em_obje_212",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中所示的健身设备名称是什么？请在以下选项中作出正确选择。 A. 椭圆机 B. 卧式曲腿训练器 C. 动感单车 D. 三头肌弯举训练椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Lying-Leg-Curl-Machine/3.png"
+      }
+    },
+    {
+      "id": "em_obje_213",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 多功能仰卧板 B. 卧式曲腿训练器 C. 史密斯架 D. 蝴蝶机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Lying-Leg-Curl-Machine/4.png"
+      }
+    },
+    {
+      "id": "em_obje_214",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 健身车 B. 卧式曲腿训练器 C. 二头肌弯举训练椅 D. 自由深蹲架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Lying-Leg-Curl-Machine/5.png"
+      }
+    },
+    {
+      "id": "em_obje_215",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这幅图展示的健身器械叫什么名字？请在给出的选项里选择正确答案。 A. 大龙门架 B. 卧式曲腿训练器 C. 哈克深蹲机 D. 动感单车",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Lying-Leg-Curl-Machine/6.png"
+      }
+    },
+    {
+      "id": "em_obje_216",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中出现的健身器材属于哪一种？请从下面的选项中选择正确的名称。 A. 蝴蝶机 B. 卧式曲腿训练器 C. 罗马椅 D. 坐姿推肩器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Lying-Leg-Curl-Machine/7.png"
+      }
+    },
+    {
+      "id": "em_obje_217",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请根据图片判断该健身器材的名称，并在选项中选出对应答案。 A. 三头肌弯举训练椅 B. 卧式曲腿训练器 C. 大龙门架 D. 辅助式引体向上器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Lying-Leg-Curl-Machine/8.png"
+      }
+    },
+    {
+      "id": "em_obje_218",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中显示的是哪种健身设备？请从下面的选项中选择正确的名称。 A. 牧师凳 B. 卧式曲腿训练器 C. 小龙门架 D. 坐姿高位下拉器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Lying-Leg-Curl-Machine/9.png"
+      }
+    },
+    {
+      "id": "em_obje_219",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图中的健身器材叫什么，请在所给的选项中找出正确答案。 A. 平板卧推架 B. 卧式曲腿训练器 C. 动感单车 D. 哈克深蹲机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Lying-Leg-Curl-Machine/10.png"
+      }
+    },
+    {
+      "id": "em_obje_220",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请判断图中展示的健身器材名称，并在下列选项中选择正确答案。 A. 动感单车 B. 蝴蝶机 C. 小龙门架 D. 牧师凳",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/small-gentry/1.png"
+      }
+    },
+    {
+      "id": "em_obje_221",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图里出现的健身器材叫什么？请从下面提供的选项里选出正确的名称。 A. 自由深蹲架 B. 健身车 C. 小龙门架 D. 罗马椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/small-gentry/2.png"
+      }
+    },
+    {
+      "id": "em_obje_222",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中所示的健身设备名称是什么？请在以下选项中作出正确选择。 A. 坐姿推肩器 B. 平板卧推架 C. 小龙门架 D. 哈克深蹲机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/small-gentry/3.png"
+      }
+    },
+    {
+      "id": "em_obje_223",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 蝴蝶机 B. 二头肌弯举训练椅 C. 小龙门架 D. 动感单车",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/small-gentry/4.png"
+      }
+    },
+    {
+      "id": "em_obje_224",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 史密斯架 B. 大龙门架 C. 小龙门架 D. 哑铃凳",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/small-gentry/5.png"
+      }
+    },
+    {
+      "id": "em_obje_225",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这幅图展示的健身器械叫什么名字？请在给出的选项里选择正确答案。 A. 辅助式引体向上器 B. 卧式曲腿训练器 C. 小龙门架 D. 多功能仰卧板",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/small-gentry/6.png"
+      }
+    },
+    {
+      "id": "em_obje_226",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中出现的健身器材属于哪一种？请从下面的选项中选择正确的名称。 A. 动感单车 B. 大龙门架 C. 小龙门架 D. 蝴蝶机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/small-gentry/7.png"
+      }
+    },
+    {
+      "id": "em_obje_227",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请根据图片判断该健身器材的名称，并在选项中选出对应答案。 A. 坐姿高位下拉器 B. 平板卧推架 C. 小龙门架 D. 罗马椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/small-gentry/8.png"
+      }
+    },
+    {
+      "id": "em_obje_228",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中显示的是哪种健身设备？请从下面的选项中选择正确的名称。 A. 动感单车 B. 哈克深蹲机 C. 小龙门架 D. 三头肌弯举训练椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/small-gentry/9.png"
+      }
+    },
+    {
+      "id": "em_obje_229",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图中的健身器材叫什么，请在所给的选项中找出正确答案。 A. 大龙门架 B. 多功能仰卧板 C. 小龙门架 D. 史密斯架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/small-gentry/10.png"
+      }
+    },
+    {
+      "id": "em_obje_230",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请判断图中展示的健身器材名称，并在下列选项中选择正确答案。 A. 健身车 B. 史密斯架 C. 动感单车 D. 哑铃凳",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Dumbbell-Bench/1.png"
+      }
+    },
+    {
+      "id": "em_obje_231",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图里出现的健身器材叫什么？请从下面提供的选项里选出正确的名称。 A. 蝴蝶机 B. 平板卧推架 C. 小龙门架 D. 哑铃凳",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Dumbbell-Bench/2.png"
+      }
+    },
+    {
+      "id": "em_obje_232",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中所示的健身设备名称是什么？请在以下选项中作出正确选择。 A. 大龙门架 B. 动感单车 C. 坐姿推胸器 D. 哑铃凳",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Dumbbell-Bench/3.png"
+      }
+    },
+    {
+      "id": "em_obje_233",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 椭圆机 B. 自由深蹲架 C. 罗马椅 D. 哑铃凳",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Dumbbell-Bench/4.png"
+      }
+    },
+    {
+      "id": "em_obje_234",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 坐式高拉力训练器 B. 动感单车 C. 蝴蝶机 D. 哑铃凳",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Dumbbell-Bench/5.png"
+      }
+    },
+    {
+      "id": "em_obje_235",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这幅图展示的健身器械叫什么名字？请在给出的选项里选择正确答案。 A. 三头肌弯举训练椅 B. 辅助式引体向上器 C. 多功能仰卧板 D. 哑铃凳",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Dumbbell-Bench/6.png"
+      }
+    },
+    {
+      "id": "em_obje_236",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中出现的健身器材属于哪一种？请从下面的选项中选择正确的名称。 A. 二头肌弯举训练椅 B. 小龙门架 C. 哈克深蹲机 D. 哑铃凳",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Dumbbell-Bench/7.png"
+      }
+    },
+    {
+      "id": "em_obje_237",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请根据图片判断该健身器材的名称，并在选项中选出对应答案。 A. 罗马椅 B. 动感单车 C. 平板卧推架 D. 哑铃凳",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Dumbbell-Bench/8.png"
+      }
+    },
+    {
+      "id": "em_obje_238",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中显示的是哪种健身设备？请从下面的选项中选择正确的名称。 A. 多功能仰卧板 B. 蝴蝶机 C. 动感单车 D. 哑铃凳",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Dumbbell-Bench/9.png"
+      }
+    },
+    {
+      "id": "em_obje_239",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图中的健身器材叫什么，请在所给的选项中找出正确答案。 A. 哈克深蹲机 B. 健身车 C. 牧师凳 D. 哑铃凳",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Dumbbell-Bench/10.png"
+      }
+    },
+    {
+      "id": "em_obje_240",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请判断图中展示的健身器材名称，并在下列选项中选择正确答案。 A. 自由深蹲架 B. 动感单车 C. 哈克深蹲机 D. 罗马椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Power-Rack/1.png"
+      }
+    },
+    {
+      "id": "em_obje_241",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图里出现的健身器材叫什么？请从下面提供的选项里选出正确的名称。 A. 自由深蹲架 B. 牧师凳 C. 平板卧推架 D. 三头肌弯举训练椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Power-Rack/2.png"
+      }
+    },
+    {
+      "id": "em_obje_242",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中所示的健身设备名称是什么？请在以下选项中作出正确选择。 A. 自由深蹲架 B. 动感单车 C. 坐姿推胸器 D. 小龙门架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Power-Rack/3.png"
+      }
+    },
+    {
+      "id": "em_obje_243",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 自由深蹲架 B. 哑铃凳 C. 二头肌弯举训练椅 D. 蝴蝶机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Power-Rack/4.png"
+      }
+    },
+    {
+      "id": "em_obje_244",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 自由深蹲架 B. 卧式曲腿训练器 C. 大龙门架 D. 健身车",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Power-Rack/5.png"
+      }
+    },
+    {
+      "id": "em_obje_245",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这幅图展示的健身器械叫什么名字？请在给出的选项里选择正确答案。 A. 自由深蹲架 B. 多功能仰卧板 C. 蝴蝶机 D. 平板卧推架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Power-Rack/6.png"
+      }
+    },
+    {
+      "id": "em_obje_246",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中出现的健身器材属于哪一种？请从下面的选项中选择正确的名称。 A. 自由深蹲架 B. 史密斯架 C. 动感单车 D. 椭圆机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Power-Rack/7.png"
+      }
+    },
+    {
+      "id": "em_obje_247",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请根据图片判断该健身器材的名称，并在选项中选出对应答案。 A. 自由深蹲架 B. 坐姿推肩器 C. 罗马椅 D. 哈克深蹲机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Power-Rack/8.png"
+      }
+    },
+    {
+      "id": "em_obje_248",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中显示的是哪种健身设备？请从下面的选项中选择正确的名称。 A. 自由深蹲架 B. 动感单车 C. 辅助式引体向上器 D. 蝴蝶机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Power-Rack/9.png"
+      }
+    },
+    {
+      "id": "em_obje_249",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图中的健身器材叫什么，请在所给的选项中找出正确答案。 A. 自由深蹲架 B. 三头肌弯举训练椅 C. 健身车 D. 牧师凳",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Power-Rack/10.png"
+      }
+    },
+    {
+      "id": "em_obje_250",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请判断图中展示的健身器材名称，并在下列选项中选择正确答案。 A. 动感单车 B. 坐式高拉力训练器 C. 罗马椅 D. 蝴蝶机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Cable-Row/1.png"
+      }
+    },
+    {
+      "id": "em_obje_251",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图里出现的健身器材叫什么？请从下面提供的选项里选出正确的名称。 A. 哈克深蹲机 B. 坐式高拉力训练器 C. 多功能仰卧板 D. 牧师凳",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Cable-Row/2.png"
+      }
+    },
+    {
+      "id": "em_obje_252",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中所示的健身设备名称是什么？请在以下选项中作出正确选择。 A. 小龙门架 B. 坐式高拉力训练器 C. 蝴蝶机 D. 动感单车",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Cable-Row/3.png"
+      }
+    },
+    {
+      "id": "em_obje_253",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 平板卧推架 B. 坐式高拉力训练器 C. 椭圆机 D. 哑铃凳",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Cable-Row/4.png"
+      }
+    },
+    {
+      "id": "em_obje_254",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 健身车 B. 坐式高拉力训练器 C. 大龙门架 D. 卧式曲腿训练器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Cable-Row/5.png"
+      }
+    },
+    {
+      "id": "em_obje_255",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这幅图展示的健身器械叫什么名字？请在给出的选项里选择正确答案。 A. 二头肌弯举训练椅 B. 坐式高拉力训练器 C. 蝴蝶机 D. 罗马椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Cable-Row/6.png"
+      }
+    },
+    {
+      "id": "em_obje_256",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中出现的健身器材属于哪一种？请从下面的选项中选择正确的名称。 A. 动感单车 B. 坐式高拉力训练器 C. 小龙门架 D. 三头肌弯举训练椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Cable-Row/7.png"
+      }
+    },
+    {
+      "id": "em_obje_257",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请根据图片判断该健身器材的名称，并在选项中选出对应答案。 A. 辅助式引体向上器 B. 坐式高拉力训练器 C. 哈克深蹲机 D. 蝴蝶机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Cable-Row/8.png"
+      }
+    },
+    {
+      "id": "em_obje_258",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中显示的是哪种健身设备？请从下面的选项中选择正确的名称。 A. 史密斯架 B. 坐式高拉力训练器 C. 自由深蹲架 D. 平板卧推架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Cable-Row/9.png"
+      }
+    },
+    {
+      "id": "em_obje_259",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图中的健身器材叫什么，请在所给的选项中找出正确答案。 A. 多功能仰卧板 B. 坐式高拉力训练器 C. 健身车 D. 动感单车",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Cable-Row/10.png"
+      }
+    },
+    {
+      "id": "em_obje_260",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请判断图中展示的健身器材名称，并在下列选项中选择正确答案。 A. 蝴蝶机 B. 动感单车 C. 坐式曲腿训练器 D. 罗马椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Leg-Curl-Machine/1.png"
+      }
+    },
+    {
+      "id": "em_obje_261",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图里出现的健身器材叫什么？请从下面提供的选项里选出正确的名称。 A. 平板卧推架 B. 三头肌弯举训练椅 C. 坐式曲腿训练器 D. 健身车",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Leg-Curl-Machine/2.png"
+      }
+    },
+    {
+      "id": "em_obje_262",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中所示的健身设备名称是什么？请在以下选项中作出正确选择。 A. 牧师凳 B. 哑铃凳 C. 坐式曲腿训练器 D. 蝴蝶机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Leg-Curl-Machine/3.png"
+      }
+    },
+    {
+      "id": "em_obje_263",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 椭圆机 B. 小龙门架 C. 坐式曲腿训练器 D. 动感单车",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Leg-Curl-Machine/4.png"
+      }
+    },
+    {
+      "id": "em_obje_264",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 大龙门架 B. 卧式曲腿训练器 C. 坐式曲腿训练器 D. 哈克深蹲机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Leg-Curl-Machine/5.png"
+      }
+    },
+    {
+      "id": "em_obje_265",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这幅图展示的健身器械叫什么名字？请在给出的选项里选择正确答案。 A. 二头肌弯举训练椅 B. 动感单车 C. 坐式曲腿训练器 D. 多功能仰卧板",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Leg-Curl-Machine/6.png"
+      }
+    },
+    {
+      "id": "em_obje_266",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中出现的健身器材属于哪一种？请从下面的选项中选择正确的名称。 A. 自由深蹲架 B. 史密斯架 C. 坐式曲腿训练器 D. 蝴蝶机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Leg-Curl-Machine/7.png"
+      }
+    },
+    {
+      "id": "em_obje_267",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请根据图片判断该健身器材的名称，并在选项中选出对应答案。 A. 动感单车 B. 牧师凳 C. 坐式曲腿训练器 D. 平板卧推架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Leg-Curl-Machine/8.png"
+      }
+    },
+    {
+      "id": "em_obje_268",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中显示的是哪种健身设备？请从下面的选项中选择正确的名称。 A. 罗马椅 B. 三头肌弯举训练椅 C. 坐式曲腿训练器 D. 健身车",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Leg-Curl-Machine/9.png"
+      }
+    },
+    {
+      "id": "em_obje_269",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图中的健身器材叫什么，请在所给的选项中找出正确答案。 A. 哑铃凳 B. 大龙门架 C. 坐式曲腿训练器 D. 辅助式引体向上器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Leg-Curl-Machine/10.png"
+      }
+    },
+    {
+      "id": "em_obje_270",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请判断图中展示的健身器材名称，并在下列选项中选择正确答案。 A. 蝴蝶机 B. 动感单车 C. 平板卧推架 D. 坐姿高位下拉器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Lat-Pulldown-Machine/1.png"
+      }
+    },
+    {
+      "id": "em_obje_271",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图里出现的健身器材叫什么？请从下面提供的选项里选出正确的名称。 A. 健身车 B. 大龙门架 C. 牧师凳 D. 坐姿高位下拉器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Lat-Pulldown-Machine/2.png"
+      }
+    },
+    {
+      "id": "em_obje_272",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中所示的健身设备名称是什么？请在以下选项中作出正确选择。 A. 哑铃凳 B. 小龙门架 C. 动感单车 D. 坐姿高位下拉器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Lat-Pulldown-Machine/3.png"
+      }
+    },
+    {
+      "id": "em_obje_273",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 史密斯架 B. 多功能仰卧板 C. 三头肌弯举训练椅 D. 坐姿高位下拉器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Lat-Pulldown-Machine/4.png"
+      }
+    },
+    {
+      "id": "em_obje_274",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 蝴蝶机 B. 二头肌弯举训练椅 C. 健身车 D. 坐姿高位下拉器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Lat-Pulldown-Machine/5.png"
+      }
+    },
+    {
+      "id": "em_obje_275",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这幅图展示的健身器械叫什么名字？请在给出的选项里选择正确答案。 A. 哈克深蹲机 B. 动感单车 C. 罗马椅 D. 坐姿高位下拉器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Lat-Pulldown-Machine/6.png"
+      }
+    },
+    {
+      "id": "em_obje_276",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中出现的健身器材属于哪一种？请从下面的选项中选择正确的名称。 A. 平板卧推架 B. 辅助式引体向上器 C. 蝴蝶机 D. 坐姿高位下拉器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Lat-Pulldown-Machine/7.png"
+      }
+    },
+    {
+      "id": "em_obje_277",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请根据图片判断该健身器材的名称，并在选项中选出对应答案。 A. 健身车 B. 牧师凳 C. 小龙门架 D. 坐姿高位下拉器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Lat-Pulldown-Machine/8.png"
+      }
+    },
+    {
+      "id": "em_obje_278",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中显示的是哪种健身设备？请从下面的选项中选择正确的名称。 A. 自由深蹲架 B. 罗马椅 C. 动感单车 D. 坐姿高位下拉器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Lat-Pulldown-Machine/9.png"
+      }
+    },
+    {
+      "id": "em_obje_279",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图中的健身器材叫什么，请在所给的选项中找出正确答案。 A. 蝴蝶机 B. 动感单车 C. 哈克深蹲机 D. 坐姿高位下拉器",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Lat-Pulldown-Machine/10.png"
+      }
+    },
+    {
+      "id": "em_obje_280",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请判断图中展示的健身器材名称，并在下列选项中选择正确答案。 A. 坐姿推肩器 B. 动感单车 C. 小龙门架 D. 牧师凳",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Shoulder-Press-Machine/1.png"
+      }
+    },
+    {
+      "id": "em_obje_281",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图里出现的健身器材叫什么？请从下面提供的选项里选出正确的名称。 A. 坐姿推肩器 B. 蝴蝶机 C. 自由深蹲架 D. 健身车",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Shoulder-Press-Machine/2.png"
+      }
+    },
+    {
+      "id": "em_obje_282",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中所示的健身设备名称是什么？请在以下选项中作出正确选择。 A. 坐姿推肩器 B. 大龙门架 C. 哑铃凳 D. 平板卧推架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Shoulder-Press-Machine/3.png"
+      }
+    },
+    {
+      "id": "em_obje_283",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 坐姿推肩器 B. 罗马椅 C. 动感单车 D. 蝴蝶机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Shoulder-Press-Machine/4.png"
+      }
+    },
+    {
+      "id": "em_obje_284",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请识别图片中的健身器材，并从下方选项中挑出正确的名称。 A. 坐姿推肩器 B. 哈克深蹲机 C. 多功能仰卧板 D. 二头肌弯举训练椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Shoulder-Press-Machine/5.png"
+      }
+    },
+    {
+      "id": "em_obje_285",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这幅图展示的健身器械叫什么名字？请在给出的选项里选择正确答案。 A. 坐姿推肩器 B. 健身车 C. 牧师凳 D. 动感单车",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Shoulder-Press-Machine/6.png"
+      }
+    },
+    {
+      "id": "em_obje_286",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中出现的健身器材属于哪一种？请从下面的选项中选择正确的名称。 A. 坐姿推肩器 B. 小龙门架 C. 史密斯架 D. 罗马椅",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Shoulder-Press-Machine/7.png"
+      }
+    },
+    {
+      "id": "em_obje_287",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "请根据图片判断该健身器材的名称，并在选项中选出对应答案。 A. 坐姿推肩器 B. 动感单车 C. 卧式曲腿训练器 D. 蝴蝶机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Shoulder-Press-Machine/8.png"
+      }
+    },
+    {
+      "id": "em_obje_288",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "图中显示的是哪种健身设备？请从下面的选项中选择正确的名称。 A. 坐姿推肩器 B. 大龙门架 C. 三头肌弯举训练椅 D. 平板卧推架",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Shoulder-Press-Machine/9.png"
+      }
+    },
+    {
+      "id": "em_obje_289",
+      "task_type": "objective",
+      "modality": "text",
+      "domain": "kinds",
+      "language": "zh",
+      "content": {
+        "text": "这张图中的健身器材叫什么，请在所给的选项中找出正确答案。 A. 坐姿推肩器 B. 辅助式引体向上器 C. 健身车 D. 蝴蝶机",
+        "images": "/gemini/user/private/qwen2.5/judge/data/fitness_kinds/kinds-pic/Seated-Shoulder-Press-Machine/10.png"
+      }
+    }
+  ]
+}
