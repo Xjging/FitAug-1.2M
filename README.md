@@ -173,7 +173,7 @@ FitAug-1.2M is designed for targeted model improvement in VLM-based fitness guid
 
 ## Access
 
-This repository provides a public subset of the dataset and evaluation materials.
+This repository provides a public subset of the dataset and evaluation materials.[images](images/) \ [eval_PCI](eval_PCI/)
 
 Only part of the evaluation data is released here.  
 For the full dataset, full evaluation data, and complete benchmark resources, please contact:
