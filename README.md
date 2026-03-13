@@ -184,3 +184,9 @@ For the full dataset, full evaluation data, and complete benchmark resources, pl
 If you use this dataset, please cite this repository or acknowledge the FitAug-1.2M dataset in your work.
 
 The corresponding paper is currently under review and will be added here once it becomes publicly available.
+
+## License
+
+The released data and evaluation materials in this repository are provided for **non-commercial academic research only**.
+
+Please see [DATA_LICENSE.md](DATA_LICENSE.md) for details.
